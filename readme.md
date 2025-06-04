@@ -20,6 +20,11 @@ Have feedback? Shoot us a message at [jobs@joinrise.co](mailto:jobs@joinrise.co)
 
 | Company | Role | Location | Type | Salary Range | Link |
 |---------|------|----------|------|--------------|------|
+| Thomson Reuters | Senior Software Engineer | IND-BLR-Kabra Excelsior | Remote | $100,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/thomson-reuters-senior-software-engineer-i1gt) |
+| Accenture | Pega Lead System Architect (LSA) | Vilnius | Remote | $39,600 - $62,400 | [Apply](https://app.joinrise.co/jobs/accenture-pega-lead-system-architect-lsa-aa0d) |
+| Altoros | Fullstack Blockchain Developer | No location specified | Remote | Not specified | [Apply](https://app.joinrise.co/jobs/altoros-fullstack-blockchain-developer-gpwg) |
+| Choice Hotels | Software Engineer 3 | North Bethesda MD - Corporate Headquarters | Hybrid | $120,000 - $153,000 | [Apply](https://app.joinrise.co/jobs/choice-hotels-software-engineer-3-5xxt) |
+| Salesforce | Software Engineering, SMTS / Senior Software Engineer  (multiple positions available) | California - San Francisco | Remote | $206,315 - $236,500 | [Apply](https://app.joinrise.co/jobs/salesforce-software-engineering-smts-senior-software-engineer-multiple-positions-available-c5z5) |
 | KPA | Senior Software Engineer | Westminster, CO | Hybrid | $140,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/kpa-senior-software-engineer-9ku2) |
 | MAERSK | Senior Software Engineer (Remote) | US - Charlotte | Remote | $105,000 - $113,000 | [Apply](https://app.joinrise.co/jobs/maersk-senior-software-engineer-remote-fb80) |
 | Solink | Intermediate Full Stack Developer (Data) | Ottawa | Remote | $80,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/solink-intermediate-full-stack-developer-data-ljpv) |
@@ -123,7 +128,7 @@ Have feedback? Shoot us a message at [jobs@joinrise.co](mailto:jobs@joinrise.co)
 | Airops | Senior AI Engineer | New York City | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/airops-senior-ai-engineer-7dfo) |
 | Inetum | Senior FullStack developer java | Barcelona, España | Remote | $60,000 - $80,000 | [Apply](https://app.joinrise.co/jobs/inetum-senior-fullstack-developer-java-a6oy) |
 | MAERSK | Software Engineer (Remote) | US - Charlotte | Remote | $80,000 - $100,000 | [Apply](https://app.joinrise.co/jobs/maersk-software-engineer-remote-fshr) |
-| Accenture | Android Developer in  Athens | Athens | Remote | $70,000 - $90,000 | [Apply](https://app.joinrise.co/jobs/accenture-android-developer-in-athens-mybb) |
+| Accenture | Android Developer in  Athens | Athens | Remote | $60,000 - $80,000 | [Apply](https://app.joinrise.co/jobs/accenture-android-developer-in-athens-mybb) |
 | CBA | Staff Software Engineer - iOS | Sydney CBD Area | Remote | $120,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/cba-staff-software-engineer-ios-nw0v) |
 | Virtual Staff 365 | Junior Full Stack Developer | No location specified | Remote | Not specified | [Apply](https://app.joinrise.co/jobs/virtual-staff-365-junior-full-stack-developer-adfp) |
 | Target | Machine Learning Engineer | Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065 | Hybrid | $60,000 - $80,000 | [Apply](https://app.joinrise.co/jobs/target-machine-learning-engineer-i6xj) |
