@@ -16,313 +16,271 @@ Have feedback? Shoot us a message at [jobs@joinrise.co](mailto:jobs@joinrise.co)
 ## Daily Job List
 > 👇 Scroll down for previous days' listings
 
-## 06/22/2025 Jobs
+## 06/25/2025 Jobs
 
 | Company | Role | Location | Type | Salary Range | Link |
 |---------|------|----------|------|--------------|------|
-| CNX | SDET | USA Atlanta, GA | Hybrid | $91,457 - $137,186 | [Apply](https://app.joinrise.co/jobs/cnx-sdet-tmfe) |
-| ServiceNow | Senior Software Engineer-Federal | Building A,B,C 2225 Lawson Lane, Santa Clara, CALIFORNIA, United States | Hybrid | $140,700 - $239,200 | [Apply](https://app.joinrise.co/jobs/servicenow-senior-software-engineerfederal-uqkc) |
-| EarthCam | Mobile Engineer | No location specified | Hybrid | $65,000 - $90,000 | [Apply](https://app.joinrise.co/jobs/earthcam-mobile-engineer-a833) |
-| General Motors (GM) | Software Engineer - Full Stack, 3D Graphics | Austin, Texas, United States of America | Hybrid | $101,500 - $162,100 | [Apply](https://app.joinrise.co/jobs/general-motors-gm-software-engineer-full-stack-3d-graphics-76bw) |
-| Citi | **Digital S/W Engineer Manager - C12 - TAMPA | Tampa Florida United States | Hybrid | $96,960 - $145,440 | [Apply](https://app.joinrise.co/jobs/citi-digital-sw-engineer-manager-c12-tampa-zbrl) |
-| Fiserv | Senior Full Stack UI Engineer | Alpharetta, Georgia | Hybrid | $75,600 - $135,000 | [Apply](https://app.joinrise.co/jobs/fiserv-senior-full-stack-ui-engineer-hi5i) |
-| Palo Alto Networks |  Principal Software Engineer in Test  (Customer Profile Engineering) | Santa Clara, CA | Hybrid | $147,000 - $225,500 | [Apply](https://app.joinrise.co/jobs/palo-alto-networks-principal-software-engineer-in-test-customer-profile-engineering-b6up) |
-| Boeing | Associate Software Developer | USA - Ridley Park, PA | Hybrid | $78,200 - $105,800 | [Apply](https://app.joinrise.co/jobs/boeing-associate-software-developer-5hhg) |
-| Bah | Software Engineer and Developer | Dayton, OH | Hybrid | $69,300 - $158,000 | [Apply](https://app.joinrise.co/jobs/bah-software-engineer-and-developer-gtsp) |
-| Jobsbridge | UI/UX Developer | San Diego, CA | Hybrid | $70,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-uiux-developer-fxhk) |
-| Walmart | (USA) Senior, Software Engineer | (USA) Global People Center (GPC) AR Bentonville Home Office | Hybrid | $90,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/walmart-usa-senior-software-engineer-qv9z) |
-| Jobsbridge | Lead iOS Developer | Lorton, VA | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-lead-ios-developer-6jr8) |
-| MILLENNIUMSOFT | Senior Software Engineer | 7 Loveton Circle (Main Bldg), Sparks, MD 21152 United States, Sparks, Maryland, United States | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/millenniumsoft-senior-software-engineer-2s97) |
-| Citi | **Digital S/W Engineer Manager | Tampa Florida United States | Hybrid | $96,960 - $145,440 | [Apply](https://app.joinrise.co/jobs/citi-digital-sw-engineer-manager-k23z) |
-| JDA | Software Engineer I | Dallas | Hybrid | $69,999 - $108,212 | [Apply](https://app.joinrise.co/jobs/jda-software-engineer-i-t6yu) |
-| CoStar | Software Engineer | US-VA Arlington | Hybrid | $60,000 - $90,000 | [Apply](https://app.joinrise.co/jobs/costar-software-engineer-2vzm) |
-| ms | Associate, Java/Scala Developer | Alpharetta GA 6655 | Hybrid | $152,510 - $152,510 | [Apply](https://app.joinrise.co/jobs/ms-associate-javascala-developer-auxb) |
-| American Express | Engineer I | Phoenix, Arizona, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-i-unrq) |
-| Topaz Labs | Software Engineer, DevOps | Dallas, TX | Hybrid | $110,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/topaz-labs-software-engineer-devops-c92i) |
-| American Express | Engineer, Full Stack - Global Servicing Technology | Sunrise, Florida, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-full-stack-global-servicing-technology-qn04) |
-| Citi | Ops Tech Core Ops Pega Sr. Developer | Irving Texas United States | Hybrid | $125,760 - $188,640 | [Apply](https://app.joinrise.co/jobs/citi-ops-tech-core-ops-pega-sr-developer-b0bm) |
-| Citi | Lead Java Middle Tier Developer- C13 - JERSEY CITY | Jersey City New Jersey United States | Hybrid | $142,320 - $213,480 | [Apply](https://app.joinrise.co/jobs/citi-lead-java-middle-tier-developer-c13-jersey-city-mszj) |
-| GlobalHR | Engineer II, Software Engineering | HIA32: Cedar Rapids, IA 400 Collins Rd NE  , Cedar Rapids, IA, 52498-0505 USA | Hybrid | $72,238 - $128,000 | [Apply](https://app.joinrise.co/jobs/globalhr-engineer-ii-software-engineering-qvqb) |
-| TecTammina | Angular JS | Jersey City, NJ, USA, Jersey City, NJ | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/tectammina-angular-js-xkth) |
-| Blue Origin | Software Engineer III | Seattle, WA | Hybrid | $148,014 - $207,218 | [Apply](https://app.joinrise.co/jobs/blue-origin-software-engineer-iii-jzuz) |
-| Jobsbridge | Sr. UI Developer with Angular JS | Jersey City, NJ | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-sr-ui-developer-with-angular-js-eesk) |
-| Better | Senior Software Engineer, Marketplace | New York, New York | Hybrid | $190,000 - $240,000 | [Apply](https://app.joinrise.co/jobs/better-senior-software-engineer-marketplace-rflj) |
-| Jobsbridge | Java Developer with Virtualization Experience | San Jose, CA | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/jobsbridge-java-developer-with-virtualization-experience-ayja) |
-| Citi | **Digital S/W Engineer Group Manager | Tampa Florida United States | Hybrid | $153,600 - $230,400 | [Apply](https://app.joinrise.co/jobs/citi-digital-sw-engineer-group-manager-o9si) |
-| Jobsbridge | Web UI Developer | New York, NY | Hybrid | $70,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-web-ui-developer-bb03) |
-| Atria Group LLC | Java Developer - Object Oriented Developer | 2727 LBJ Freeway Suite 320, Dallas, TX | Hybrid | $70,000 - $100,000 | [Apply](https://app.joinrise.co/jobs/atria-group-llc-java-developer-object-oriented-developer-w089) |
-| Epsilon3 | Software Engineer (Remote) | United States | Hybrid | $120,000 - $175,000 | [Apply](https://app.joinrise.co/jobs/epsilon3-software-engineer-remote-crmx) |
-| Jobsbridge | Mobile Developer | Mesa, AZ | Hybrid | $70,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-mobile-developer-hjgk) |
-| Stem Xpert | Sr. Frontend Developer | Suite # 300 | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/stem-xpert-sr-frontend-developer-ounu) |
-| Shield AI | Staff Engineer, Software Perception (R3554) | Washington DC Metro Area | Hybrid | $180,000 - $270,000 | [Apply](https://app.joinrise.co/jobs/shield-ai-staff-engineer-software-perception-r3554-9873) |
-| Jobsbridge | Web Developer | New York, NY | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/jobsbridge-web-developer-1jr6) |
-| VDart Inc | Applications Development Consultant | W Valley City, Green River, UT 84525, USA | Hybrid | $80,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/vdart-inc-applications-development-consultant-x8mn) |
-| Parsons | Software Developer with Mobile Exploit Experience with  iOS/Android | US - VA, Chantilly | Hybrid | $100,900 - $176,600 | [Apply](https://app.joinrise.co/jobs/parsons-software-developer-with-mobile-exploit-experience-with-iosandroid-cpef) |
-| Medtelligent | Senior .NET Software Engineer | 306 W Erie St, Chicago, IL 60654, USA | Hybrid | $115,000 - $125,000 | [Apply](https://app.joinrise.co/jobs/medtelligent-senior-net-software-engineer-bp1r) |
-| Jobsbridge | Java Back End Developersan | San Francisco, CA | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-java-back-end-developersan-huus) |
-| Unify | New Grad Software Engineer | No location specified | Hybrid | $85,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/unify-new-grad-software-engineer-b1eg) |
-| Bosch Group | Software Engineer (MULTIPLE POSITIONS) (REF261567R)  | 15000 N Haggerty Rd, Plymouth, MI 48170, USA | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/bosch-group-software-engineer-multiple-positions-ref261567r-omrn) |
-| Crusoe | Backend Software Engineer - Cloud Control Plane | San Francisco | Hybrid | $155,000 - $210,000 | [Apply](https://app.joinrise.co/jobs/crusoe-backend-software-engineer-cloud-control-plane-7j8x) |
-| Brigit | Senior Software Engineer - Payments | New York City | Hybrid | $165,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/brigit-senior-software-engineer-payments-it5v) |
-| Infisical | Full Stack Engineer - New Grad (US & Canada) | No location specified | Hybrid | $70,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/infisical-full-stack-engineer-new-grad-us-canada-oezt) |
-| Meijer | Sr Software Engineer | Michigan | Hybrid | $100,000 - $156,000 | [Apply](https://app.joinrise.co/jobs/meijer-sr-software-engineer-xof1) |
-| Atria Group LLC | Java Developer (Struts, EJB, and OO | Dallas, TX | Hybrid | $70,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/atria-group-llc-java-developer-struts-ejb-and-oo-vrlj) |
-| d-Matrix | Runtime Engineer, Senior Staff | Santa Clara, Ca | Hybrid | $130,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/d-matrix-runtime-engineer-senior-staff-fbc0) |
-| Mindera | Internships PT | No location specified | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/mindera-internships-pt-un3b) |
-| Medal | Senior/Lead Backend Engineer - NYC | New York City | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/medal-seniorlead-backend-engineer-nyc-5mk5) |
-| Stem Xpert | Java Developer (Full Time) | Suite # 300 | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/stem-xpert-java-developer-full-time-tjut) |
-| GlobalHR | Senior Principal Engineer, Software Engineering | HIA32: Cedar Rapids, IA 400 Collins Rd NE  , Cedar Rapids, IA, 52498-0505 USA | Hybrid | $126,090 - $246,000 | [Apply](https://app.joinrise.co/jobs/globalhr-senior-principal-engineer-software-engineering-9cjc) |
-| Photon Career Site | Tech Lead Microservices - Irving, TX | Texas, United States | Hybrid | $42,000 - $147,000 | [Apply](https://app.joinrise.co/jobs/photon-career-site-tech-lead-microservices-irving-tx-7hfs) |
-| Photon Career Site | Tech Lead Angular | TX | Texas, United States | Hybrid | $42,000 - $147,000 | [Apply](https://app.joinrise.co/jobs/photon-career-site-tech-lead-angular-tx-oz3w) |
-| Sigma Computing | Senior Software Engineer  - Observability and Reliability | San Francisco, California, United States | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/sigma-computing-senior-software-engineer-observability-and-reliability-m489) |
-| Photon Career Site | Sr Gen AI Engineer - TX, USA (Remote) | Texas, United States | Hybrid | $48,000 - $168,000 | [Apply](https://app.joinrise.co/jobs/photon-career-site-sr-gen-ai-engineer-tx-usa-remote-ubbm) |
-| HubSpot | SENIOR AI ENGINEER | Cambridge, Massachusetts, United States | Hybrid | $157,600 - $236,400 | [Apply](https://app.joinrise.co/jobs/hubspot-senior-ai-engineer-yp3k) |
+| Plaid | Software Engineer, Backend (IDV) | San Francisco | Hybrid | $163,200 - $223,200 | [Apply](https://app.joinrise.co/jobs/plaid-software-engineer-backend-idv-q7cp) |
+| Mode Mobile | Web App Developer (Remote) | Remote | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/mode-mobile-web-app-developer-remote-mc13) |
+| Harvey | Staff Software Engineer, Core Infrastructure | San Francisco | Hybrid | $250,000 - $290,000 | [Apply](https://app.joinrise.co/jobs/harvey-staff-software-engineer-core-infrastructure-th8w) |
+| American Express | Engineer, GRCT | Phoenix, Arizona, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-grct-elm5) |
+| American Express | Engineer, Full Stack - Global Servicing Technology | Sunrise, Florida, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-full-stack-global-servicing-technology-a3q2) |
+| American Express | Engineer | Sandy, Utah, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-sut3) |
+| American Express | Senior Engineer | United States | Hybrid | $110,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineer-rgmg) |
+| Jobgether | Frontend Engineer (Remote - Canada or United States) | No location specified | Hybrid | $140,800 - $158,400 | [Apply](https://app.joinrise.co/jobs/jobgether-frontend-engineer-remote-canada-or-united-states-bqms) |
+| American Express | Senior Engineer - Java - GO2 Unify | Sunrise, Florida, United States | Hybrid | $110,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineer-java-go2-unify-dv9s) |
+| Color | Staff Software Engineer, DevOps &amp; Platform | Burlingame, California | Hybrid | $140,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/color-staff-software-engineer-devops-amp-platform-m0wp) |
+| American Express | Senior Engineers | New York, New York, United States | Hybrid | $123,656 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineers-thbf) |
+| DMV IT Service | Java API Developer | No location specified | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/dmv-it-service-java-api-developer-vvpe) |
+| American Express | Engineers | Phoenix, Arizona, United States | Hybrid | $122,806 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineers-z2wv) |
+| Tek Spikes | Senior Android Developer | No location specified | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/tek-spikes-senior-android-developer-ilcs) |
+| DMV IT Service | Back End Java Full Stack Developer | No location specified | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/dmv-it-service-back-end-java-full-stack-developer-gksq) |
+| Jobgether | Technical Lead (Remote - US) | No location specified | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/jobgether-technical-lead-remote-us-rtsn) |
+| Spotify | Senior Machine Learning Engineer, GenRecs, Personalization | New York, NY | Hybrid | $176,166 - $251,666 | [Apply](https://app.joinrise.co/jobs/spotify-senior-machine-learning-engineer-genrecs-personalization-hqea) |
+| RYZ Labs | Coding Specialist - AI Trainer | Remote- | Hybrid | $70,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/ryz-labs-coding-specialist-ai-trainer-bp56) |
+| LangChain | Full Stack Engineer (Growth Engineering) | No location specified | Hybrid | $165,000 - $195,000 | [Apply](https://app.joinrise.co/jobs/langchain-full-stack-engineer-growth-engineering-qf1i) |
+| LangChain | Senior Backend Engineer (Growth Engineering) | No location specified | Hybrid | $165,000 - $195,000 | [Apply](https://app.joinrise.co/jobs/langchain-senior-backend-engineer-growth-engineering-l418) |
+| G2i Inc. | Python Developer (Cursor/OpenAI) | No location specified | Hybrid | $80,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/g2i-inc-python-developer-cursoropenai-rfs1) |
+| FI | Senior Embedded Software Engineer | New York, NY | Hybrid | $150,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/fi-senior-embedded-software-engineer-4m63) |
+| Commonwealth Fusion Systems | Senior Application Engineer | Milpitas, CA | Hybrid | $110,000 - $185,000 | [Apply](https://app.joinrise.co/jobs/commonwealth-fusion-systems-senior-application-engineer-8trb) |
+| Applied Intuition | Software Engineer - Data Engine | Mountain View, California, United States | Hybrid | $153,000 - $222,000 | [Apply](https://app.joinrise.co/jobs/applied-intuition-software-engineer-data-engine-ayv2) |
+| The Job Sauce | Full Stack Engineer - Clearview AI | No location specified | Hybrid | $130,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/the-job-sauce-full-stack-engineer-clearview-ai-t4fe) |
+| CSC Generation | Senior Frontend Engineer | Remote | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/csc-generation-senior-frontend-engineer-6eox) |
+| Complex | Senior Software Engineer – iOS (Swift) | Remote | Hybrid | $160,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/complex-senior-software-engineer-ios-swift-r6uh) |
+| Infisical | Full Stack Engineer (Americas) | No location specified | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/infisical-full-stack-engineer-americas-g72f) |
+| E*Pro Inc | Oracle ADF |  Suite 303 | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/epro-inc-oracle-adf-y9vk) |
+| Curex | Principal Engineer | New York City | Hybrid | $140,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/curex-principal-engineer-pggh) |
+| Kemper | Software Developer (Java) | Birmingham, Alabama | Hybrid | $85,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/kemper-software-developer-java-btvo) |
+| Jobsbridge | Senior Front End Engineer (Local candidate only) | San Francisco, CA | Hybrid | $110,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-senior-front-end-engineer-local-candidate-only-btsi) |
+| Jobsbridge | Senior IOS Developer | San Jose, CA | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-senior-ios-developer-89y8) |
+| Cognite | VP of Software Development - Atlas AI | Phoenix | Hybrid | $160,000 - $250,000 | [Apply](https://app.joinrise.co/jobs/cognite-vp-of-software-development-atlas-ai-qqhc) |
+| ServiceNow | Staff Full-Stack Software Engineer, Platform Application Lifecycle | Building A,B,C 2225 Lawson Lane, Santa Clara, California, United States | Hybrid | $163,600 - $286,300 | [Apply](https://app.joinrise.co/jobs/servicenow-staff-fullstack-software-engineer-platform-application-lifecycle-arkn) |
+| Willow Voice | Founding Engineer (IOS) | San Francisco Bay Area | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/willow-voice-founding-engineer-ios-fr4d) |
+| Boeing | Large Scale Data Integration (LSDI) Developer (Associate or Mid-Level) | USA - Tukwila, WA | Hybrid | $82,450 - $138,000 | [Apply](https://app.joinrise.co/jobs/boeing-large-scale-data-integration-lsdi-developer-associate-or-midlevel-bbbs) |
+| Wyetech | Sr. Software Engineer (Hybrid) - 23535 | Columbia, Maryland | Hybrid | $109,316 - $291,033 | [Apply](https://app.joinrise.co/jobs/wyetech-sr-software-engineer-hybrid-23535-896b) |
+| Jobsbridge | ColdFusion Developer | Los Angeles, CA | Hybrid | $70,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-coldfusion-developer-pkjb) |
+| Staffit Solutions | Urgent need of .net developer | New York, NY | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/staffit-solutions-urgent-need-of-net-developer-9us6) |
+| Dynamic | Fullstack Software Engineer | No location specified | Hybrid | $110,000 - $145,000 | [Apply](https://app.joinrise.co/jobs/dynamic-fullstack-software-engineer-uumw) |
+| ATG | Senior Fullstack Engineer | New York City | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/atg-senior-fullstack-engineer-c7g9) |
+| Attentive | Staff Site Reliability Engineer | United States | Hybrid | $156,000 - $240,000 | [Apply](https://app.joinrise.co/jobs/attentive-staff-site-reliability-engineer-4ev7) |
+| Arthur Grand Technologies Inc | Node JS Developer - Lead Level - Onsite - New Jersey | Jersey City Blvd, Jersey City, NJ 07305, USA | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/arthur-grand-technologies-inc-node-js-developer-lead-level-onsite-new-jersey-g9qi) |
+| UnifyID | Lead iOS Engineer | Redwood City, CA | Hybrid | $140,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/unifyid-lead-ios-engineer-n1b0) |
+| Complex | Senior Frontend Engineer (React / TypeScript / Next.js) | New York | Hybrid | $145,000 - $170,000 | [Apply](https://app.joinrise.co/jobs/complex-senior-frontend-engineer-react-typescript-nextjs-02sy) |
+| Atria Group LLC | PL/SQL Developer | Philadelphia, PA | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/atria-group-llc-plsql-developer-k7kc) |
+| Talan | Front Office Software Engineer (Python/C#)  | New York, NY, USA | Hybrid | $110,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/talan-front-office-software-engineer-pythonc-2hcj) |
+| Constellation Technologies, Inc | Applied Data &amp; Software Engineer - multiple levels - CLEARANCE and POLYGRAPH REQUIRED | No location specified | Hybrid | $126,000 - $240,000 | [Apply](https://app.joinrise.co/jobs/constellation-technologies-inc-applied-data-amp-software-engineer-multiple-levels-clearance-and-polygraph-required-cg2z) |
+| Air Space Intelligence | Frontend - React Native Engineer | Boston | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/air-space-intelligence-frontend-react-native-engineer-ch1w) |
+| Stytch | Experienced Frontend Engineer | San Francisco  | Hybrid | $185,000 - $225,000 | [Apply](https://app.joinrise.co/jobs/stytch-experienced-frontend-engineer-jb7m) |
+| Orca | Software Engineer (Backend) | No location specified | Hybrid | $160,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/orca-software-engineer-backend-k638) |
+| American Express | Engineer, GRCT | Phoenix, Arizona, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-grct-eqq0) |
+| American Express | Engineer, Full Stack - Global Servicing Technology | Sunrise, Florida, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-full-stack-global-servicing-technology-yvug) |
+| American Express | Engineer | Sandy, Utah, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-88zs) |
+| American Express | Senior Engineer | United States | Hybrid | $110,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineer-k0pi) |
+| Vow | Senior Software Engineer (Factory Automation) | No location specified | Hybrid | $110,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/vow-senior-software-engineer-factory-automation-c3un) |
+| American Express | Senior Engineer - Java - GO2 Unify | Sunrise, Florida, United States | Hybrid | $110,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineer-java-go2-unify-6pw3) |
+| American Express | Senior Engineers | New York, New York, United States | Hybrid | $123,656 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineers-1sy9) |
+| American Express | Engineers | Phoenix, Arizona, United States | Hybrid | $122,806 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineers-b7n0) |
 
-## 06/21/2025 Jobs
-
-| Company | Role | Location | Type | Salary Range | Link |
-|---------|------|----------|------|--------------|------|
-| Gyde Health | Founding AI Engineer | United States | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/gyde-health-founding-ai-engineer-jgee) |
-| Inversion | Front-End Engineer | New York City | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/inversion-frontend-engineer-nhcr) |
-| Glimpse | Front-End Engineer | New York | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/glimpse-frontend-engineer-xnug) |
-| ms | Java Development Lead - Vice President | New York, New York, United States of America | Hybrid | $150,000 - $210,000 | [Apply](https://app.joinrise.co/jobs/ms-java-development-lead-vice-president-w9ev) |
-| General Motors (GM) | Software Engineering Manager-Data Insights & Operational Reporting | Roswell, Georgia, United States of America | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/general-motors-gm-software-engineering-managerdata-insights-operational-reporting-vei1) |
-| Blue Origin | Senior Software Engineer, Factory Automation AI | Seattle, WA | Hybrid | $177,567 - $248,594 | [Apply](https://app.joinrise.co/jobs/blue-origin-senior-software-engineer-factory-automation-ai-f5cb) |
-| Salesforce | DevOps Engineer - SMTS/LMTS | California - San Francisco | Hybrid | $172,000 - $276,100 | [Apply](https://app.joinrise.co/jobs/salesforce-devops-engineer-smtslmts-g3vo) |
-| ServiceNow | Staff Front-End Software Engineer, List Experience |  4810 Eastgate Mall, San Diego, California, United States | Hybrid | $147,300 - $257,800 | [Apply](https://app.joinrise.co/jobs/servicenow-staff-frontend-software-engineer-list-experience-q4pr) |
-| Citi | Digital S/W Engineer Sr Manager | Tampa Florida United States | Hybrid | $125,600 - $188,400 | [Apply](https://app.joinrise.co/jobs/citi-digital-sw-engineer-sr-manager-bwr0) |
-| Signet Jewelers | Senior AWS Developer (Hybrid) | Support Center - Akron, OH | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/signet-jewelers-senior-aws-developer-hybrid-8ovt) |
-| Cyvl | Senior Full Stack Engineer | Boston, MA | Hybrid | $130,000 - $175,000 | [Apply](https://app.joinrise.co/jobs/cyvl-senior-full-stack-engineer-l6nz) |
-| Illumio | Senior Software Engineer, Cloud | Sunnyvale | Hybrid | $164,000 - $189,000 | [Apply](https://app.joinrise.co/jobs/illumio-senior-software-engineer-cloud-wgs8) |
-| Illumio | Staff Software Engineer, Cloud | Sunnyvale | Hybrid | $192,000 - $230,000 | [Apply](https://app.joinrise.co/jobs/illumio-staff-software-engineer-cloud-18zv) |
-| Ashby | Principal Platform Engineer - Americas | San Francisco | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/ashby-principal-platform-engineer-americas-i5t5) |
-| Altera | Sr Solution Architect - Salesforce Sales & Marketing Cloud | San Jose, California, United States | Hybrid | $200,400 - $290,100 | [Apply](https://app.joinrise.co/jobs/altera-sr-solution-architect-salesforce-sales-marketing-cloud-mbkd) |
-| Booker DiMaio | Software Engineer II | Savage, MD | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/booker-dimaio-software-engineer-ii-5gyy) |
-| Boeing | Chief Software Engineer (Virtual) | United States - Remote | Hybrid | $165,000 - $184,000 | [Apply](https://app.joinrise.co/jobs/boeing-chief-software-engineer-virtual-dbpf) |
-| Illumio | Staff Software Engineer | Sunnyvale | Hybrid | $192,000 - $230,000 | [Apply](https://app.joinrise.co/jobs/illumio-staff-software-engineer-laue) |
-| Parsons | Software Engineer, Lead | US - Remote (Any Location) | Hybrid | $144,800 - $260,600 | [Apply](https://app.joinrise.co/jobs/parsons-software-engineer-lead-fc06) |
-| CVS Health | Senior Salesforce Software Development Engineer | TX - Dallas | Hybrid | $92,700 - $185,400 | [Apply](https://app.joinrise.co/jobs/cvs-health-senior-salesforce-software-development-engineer-paxu) |
-| Illumio | Staff UI Engineer, Cloud | Sunnyvale | Hybrid | $171,000 - $205,000 | [Apply](https://app.joinrise.co/jobs/illumio-staff-ui-engineer-cloud-xas6) |
-| Illumio | Staff Software Engineer, Kubernetes | Sunnyvale | Hybrid | $192,000 - $230,000 | [Apply](https://app.joinrise.co/jobs/illumio-staff-software-engineer-kubernetes-txay) |
-| Intuitive | Sr. Frontend Software Developer | Sunnyvale, CA | Hybrid | $120,000 - $170,000 | [Apply](https://app.joinrise.co/jobs/intuitive-sr-frontend-software-developer-gvj7) |
-| American Express | Engineer I | Phoenix, Arizona, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-i-q20s) |
-| American Express | Engineer, Full Stack - Global Servicing Technology | Sunrise, Florida, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-full-stack-global-servicing-technology-chjv) |
-| Roche | Software Engineer | South San Francisco | Hybrid | $115,200 - $214,000 | [Apply](https://app.joinrise.co/jobs/roche-software-engineer-1gkl) |
-| CoreWeave | Senior Software Engineer, Kubernetes | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / Remote | Hybrid | $204,000 - $242,000 | [Apply](https://app.joinrise.co/jobs/coreweave-senior-software-engineer-kubernetes-t0yq) |
-| Nexvel | Web Developer (React / WordPress / Headless CMS) | No location specified | Hybrid | $55,000 - $70,000 | [Apply](https://app.joinrise.co/jobs/nexvel-web-developer-react-wordpress-headless-cms-93z9) |
-| CACI | Artificial Intelligence Software Engineer SME | US IL Scott AFB | Hybrid | $114,600 - $252,100 | [Apply](https://app.joinrise.co/jobs/caci-artificial-intelligence-software-engineer-sme-9133) |
-| Illumio | Member of Technical Staff II - Architecture | Sunnyvale | Hybrid | $138,000 - $159,000 | [Apply](https://app.joinrise.co/jobs/illumio-member-of-technical-staff-ii-architecture-zj6j) |
-| Zed | Backend Rust Engineer | Boulder | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/zed-backend-rust-engineer-fxap) |
-| GEM Technologies, Inc. | Software Application Developer | Los Alamos | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/gem-technologies-inc-software-application-developer-rkfy) |
-| Illumio | Senior Software Engineer | Sunnyvale | Hybrid | $164,000 - $189,000 | [Apply](https://app.joinrise.co/jobs/illumio-senior-software-engineer-7kok) |
-| Also | Staff Full Stack Developer, E-commerce | Palo Alto | Hybrid | $200,000 - $250,000 | [Apply](https://app.joinrise.co/jobs/also-staff-full-stack-developer-ecommerce-hkpq) |
-| CVS Health | Sr. Analyst, Application Development | RI - Woonsocket | Hybrid | $110,406 - $126,000 | [Apply](https://app.joinrise.co/jobs/cvs-health-sr-analyst-application-development-mxco) |
-| Illumio | Senior Software Engineer, Kubernetes | Sunnyvale | Hybrid | $164,000 - $189,000 | [Apply](https://app.joinrise.co/jobs/illumio-senior-software-engineer-kubernetes-79md) |
-| Zillow | Senior Machine Learning Engineer | Remote-USA | Hybrid | $168,600 - $269,400 | [Apply](https://app.joinrise.co/jobs/zillow-senior-machine-learning-engineer-a9ol) |
-| EvenUp | Software Engineer, New Products | San Francisco | Hybrid | $130,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/evenup-software-engineer-new-products-r235) |
-| Illumio | Member of Technical Staff II - Systems | Sunnyvale | Hybrid | $138,000 - $159,000 | [Apply](https://app.joinrise.co/jobs/illumio-member-of-technical-staff-ii-systems-hlsh) |
-| Illumio | Sr. Member of Technical Staff - Systems | Sunnyvale | Hybrid | $164,000 - $189,000 | [Apply](https://app.joinrise.co/jobs/illumio-sr-member-of-technical-staff-systems-vvjc) |
-| Sutherland | Sr Java MS Developer | Miami, FL | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/sutherland-sr-java-ms-developer-q9iv) |
-| N1 | Software Engineer Intern (Fullstack) | New York City | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/n1-software-engineer-intern-fullstack-9xux) |
-| Illumio | Staff UI Engineer, Cloud | Sunnyvale | Hybrid | $171,000 - $205,000 | [Apply](https://app.joinrise.co/jobs/illumio-staff-ui-engineer-cloud-3ipm) |
-| VibeCode | Mobile Engineer (iOS/Swift) | San Francisco | Hybrid | $150,000 - $400,000 | [Apply](https://app.joinrise.co/jobs/vibecode-mobile-engineer-iosswift-r5xi) |
-| Illumio | Senior Software Engineer, Cloud | Sunnyvale | Hybrid | $164,000 - $189,000 | [Apply](https://app.joinrise.co/jobs/illumio-senior-software-engineer-cloud-vkzb) |
-| Finni Health | Full-Stack Software Developer | San Francisco | Hybrid | $110,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/finni-health-fullstack-software-developer-qomv) |
-| Salesforce | Senior Software Engineer | Washington - Seattle | Hybrid | $157,600 - $216,700 | [Apply](https://app.joinrise.co/jobs/salesforce-senior-software-engineer-ix4w) |
-| United Wholesale Mortgage | Software Developer III | Pontiac | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/united-wholesale-mortgage-software-developer-iii-wz0z) |
-| Zoox | Senior Software Engineer - Simulation Graphics and AI/ML | Seattle, WA | Hybrid | $192,000 - $260,000 | [Apply](https://app.joinrise.co/jobs/zoox-senior-software-engineer-simulation-graphics-and-aiml-c68f) |
-| Kalibri Labs | Backend Engineer | Washington | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/kalibri-labs-backend-engineer-leu4) |
-| Mako | Founding Backend Engineer | San Francisco | Hybrid | $175,000 - $300,000 | [Apply](https://app.joinrise.co/jobs/mako-founding-backend-engineer-jaja) |
-| Mako | Founding Machine Learning Engineer | San Francisco | Hybrid | $175,000 - $300,000 | [Apply](https://app.joinrise.co/jobs/mako-founding-machine-learning-engineer-ba28) |
-| CVS Health | Sr Software Development Engineer | RI - Woonsocket | Hybrid | $110,406 - $162,000 | [Apply](https://app.joinrise.co/jobs/cvs-health-sr-software-development-engineer-84p6) |
-| CVS Health | Software Development Engineer | RI - Woonsocket | Hybrid | $110,406 - $126,000 | [Apply](https://app.joinrise.co/jobs/cvs-health-software-development-engineer-ffn9) |
-| CVS Health | Sr. Manager, Software Development Engineer | RI - Woonsocket | Hybrid | $115,000 - $230,000 | [Apply](https://app.joinrise.co/jobs/cvs-health-sr-manager-software-development-engineer-1jbi) |
-| BreakAway Data, Inc. | Senior Mobile Engineer | United States | Hybrid | $110,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/breakaway-data-inc-senior-mobile-engineer-7g71) |
-| Default | Software Engineer, Workflows | New York City | Hybrid | $175,000 - $225,000 | [Apply](https://app.joinrise.co/jobs/default-software-engineer-workflows-7nxj) |
-| ServiceNow | Principal Software Engineer - JVM Ecosystem | 2225 Lawson Lane, Santa Clara, California, United States | Hybrid | $217,500 - $380,700 | [Apply](https://app.joinrise.co/jobs/servicenow-principal-software-engineer-jvm-ecosystem-a92z) |
-| State Street | Senior Software Engineer | Burlington Massachusetts | Hybrid | $90,000 - $142,500 | [Apply](https://app.joinrise.co/jobs/state-street-senior-software-engineer-mfbh) |
-| CVS Health | Sr. Software Development Engineer | IL - Buffalo Grove | Hybrid | $106,558 - $196,000 | [Apply](https://app.joinrise.co/jobs/cvs-health-sr-software-development-engineer-b9kc) |
-| PlayStation Global | Graphics UI Programmer | San Diego, California, United States | Hybrid | $86,235 - $129,373 | [Apply](https://app.joinrise.co/jobs/playstation-global-graphics-ui-programmer-hbaj) |
-| Syncreon Consulting | .Net Tech Lead - (Full Time) | Dallas, Texas, United States | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/syncreon-consulting-net-tech-lead-full-time-its9) |
-| CVS Health | Manager, Application Development | RI - Woonsocket | Hybrid | $151,195 - $162,000 | [Apply](https://app.joinrise.co/jobs/cvs-health-manager-application-development-hsd5) |
-| Microsoft | Member of Technical Staff- MTS Product Evaluation Engineer | Redmond, Washington, United States | Hybrid | $119,800 - $234,700 | [Apply](https://app.joinrise.co/jobs/microsoft-member-of-technical-staff-mts-product-evaluation-engineer-x7cy) |
-| Amdocs | Software Engineer | Atlanta, Georgia, United States | Hybrid | $80,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/amdocs-software-engineer-vd4u) |
-| Vast | Staff Software Assurance Engineer | Long Beach, California, United States | Hybrid | $159,100 - $205,800 | [Apply](https://app.joinrise.co/jobs/vast-staff-software-assurance-engineer-2y8n) |
-| Chase | Software Engineer III - Java, Cloud | Plano, Texas, United States | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/chase-software-engineer-iii-java-cloud-4wfs) |
-| Schonfeld | Senior Software Engineer | New York, United States | Hybrid | $200,000 - $250,000 | [Apply](https://app.joinrise.co/jobs/schonfeld-senior-software-engineer-ukfb) |
-| Ivanti | Senior Software Engineer | South Jordan, Utah, United States | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/ivanti-senior-software-engineer-poin) |
-| Apple | Software Engineer (Site Reliability), Retail Engineering | Austin, Texas, United States | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/apple-software-engineer-site-reliability-retail-engineering-a5s3) |
-| NexHealth | Senior Manager, Software Engineering | San Francisco, California, United States | Hybrid | $150,000 - $250,000 | [Apply](https://app.joinrise.co/jobs/nexhealth-senior-manager-software-engineering-n0tj) |
-| Life360 | Director, Software Engineering (Location Platform) | United States | Hybrid | $213,500 - $313,500 | [Apply](https://app.joinrise.co/jobs/life360-director-software-engineering-location-platform-0r1n) |
-| Microsoft | ​​Principal Software Engineering Manager​ | Redmond, Washington, United States | Hybrid | $150,000 - $250,000 | [Apply](https://app.joinrise.co/jobs/microsoft-principal-software-engineering-manager-h8r0) |
-| Airbnb | Staff Software Engineer, Performance  | United States | Hybrid | $204,000 - $255,000 | [Apply](https://app.joinrise.co/jobs/airbnb-staff-software-engineer-performance-zkel) |
-| T-Rex Solutions | Software Developer 3 | Fort Meade, Maryland, United States | Hybrid | $160,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/t-rex-solutions-software-developer-3-pxnh) |
-| Amazon | Software Development Engineer, Supply Chain | Bellevue, Washington, United States | Hybrid | $129,300 - $223,600 | [Apply](https://app.joinrise.co/jobs/amazon-software-development-engineer-supply-chain-bvw7) |
-| Upstart | Software Engineer, Capital Insights | United States | Hybrid | $142,000 - $196,600 | [Apply](https://app.joinrise.co/jobs/upstart-software-engineer-capital-insights-is0v) |
-| Applied Intuition | Software Engineer - Over-the-Air (OTA) Updates (VehicleOS) | Mountain View, California, United States | Hybrid | $183,000 - $253,000 | [Apply](https://app.joinrise.co/jobs/applied-intuition-software-engineer-overtheair-ota-updates-vehicleos-584k) |
-| Applied Intuition | Software Engineer - Telematics (VehicleOS) | Mountain View, California, United States | Hybrid | $183,000 - $253,000 | [Apply](https://app.joinrise.co/jobs/applied-intuition-software-engineer-telematics-vehicleos-5bd5) |
-| Stellar Development Foundation | Senior Software Engineer, CLI  | San Francisco, California, United States | Hybrid | $170,000 - $260,000 | [Apply](https://app.joinrise.co/jobs/stellar-development-foundation-senior-software-engineer-cli-fhma) |
-| Esri | GIS Product Engineer II - Roads and Highways | Redlands, California, United States | Hybrid | $76,960 - $128,544 | [Apply](https://app.joinrise.co/jobs/esri-gis-product-engineer-ii-roads-and-highways-6rec) |
-| Esri | GIS Product Engineer II - Pipeline Referencing | Redlands, California, United States | Hybrid | $76,960 - $128,544 | [Apply](https://app.joinrise.co/jobs/esri-gis-product-engineer-ii-pipeline-referencing-i6pt) |
-| Esri | GIS Product Engineer II - Location Referencing | Redlands, California, United States | Hybrid | $76,960 - $128,544 | [Apply](https://app.joinrise.co/jobs/esri-gis-product-engineer-ii-location-referencing-izvz) |
-| Descript | Software Engineer -Generative Media  | San Francisco, California, United States | Hybrid | $180,000 - $230,000 | [Apply](https://app.joinrise.co/jobs/descript-software-engineer-generative-media-9ka1) |
-| State Street | Sr. Engineering Lead II, VP | Burlington Massachusetts | Hybrid | $140,000 - $222,500 | [Apply](https://app.joinrise.co/jobs/state-street-sr-engineering-lead-ii-vp-yvsf) |
-| Barclays | Solutions Architect – VP | 115 South Jefferson Rd Campus, Whippany | Hybrid | $190,000 - $210,000 | [Apply](https://app.joinrise.co/jobs/barclays-solutions-architect-vp-prl3) |
-| DMV IT Service | Lead Full Stack Engineer | Tempe, Arizona, United States | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/dmv-it-service-lead-full-stack-engineer-17gv) |
-| Callidus Legal AI | Full-Stack GenAI Application Engineer (All Levels) (AI / LegalTech) - Dallas, TX | Dallas, Texas, United States | Hybrid | $120,000 - $225,000 | [Apply](https://app.joinrise.co/jobs/callidus-legal-ai-fullstack-genai-application-engineer-all-levels-ai-legaltech-dallas-tx-m5fa) |
-| Tulip Interfaces | Full-Stack Software Engineer | Somerville, Massachusetts, United States | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/tulip-interfaces-fullstack-software-engineer-pwwo) |
-| Tulip Interfaces | Senior Full-Stack Software Engineer | Somerville, Massachusetts, United States | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/tulip-interfaces-senior-fullstack-software-engineer-sgat) |
-| Stahl Companies | Full Stack Developer | Wright-Patterson AFB, Ohio, United States | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/stahl-companies-full-stack-developer-h6bm) |
-| Experian | Staff Software Development Engineer (Full Stack, Java, Kubernetes, AWS) | United States, United States, United States, United States | Hybrid | $130,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/experian-staff-software-development-engineer-full-stack-java-kubernetes-aws-4fgn) |
-| ClassDojo | Senior Full-Stack Engineer - Security | San Francisco, California, United States | Hybrid | $171,500 - $250,000 | [Apply](https://app.joinrise.co/jobs/classdojo-senior-fullstack-engineer-security-4n5f) |
-| Coinbase | Software Engineer, Frontend - UI Systems Team | United States | Hybrid | $152,405 - $179,300 | [Apply](https://app.joinrise.co/jobs/coinbase-software-engineer-frontend-ui-systems-team-zs7x) |
-| Box | Software Engineer II, Frontend Quality Tools | Redwood City, California, United States | Hybrid | $20,000 - $100,000 | [Apply](https://app.joinrise.co/jobs/box-software-engineer-ii-frontend-quality-tools-gu6t) |
-| Panther | Staff Frontend Engineer | United States | Hybrid | $160,000 - $205,000 | [Apply](https://app.joinrise.co/jobs/panther-staff-frontend-engineer-83z2) |
-| ServiceNow | Senior Front-End Software Engineer - List Experience |  4305 Hacienda Drive Suite 200, Pleasanton, California, United States | Hybrid | $140,700 - $239,200 | [Apply](https://app.joinrise.co/jobs/servicenow-senior-frontend-software-engineer-list-experience-4l5v) |
-| HubSpot | Front End Technical Lead II | United States | Hybrid | $191,100 - $305,800 | [Apply](https://app.joinrise.co/jobs/hubspot-front-end-technical-lead-ii-1gq0) |
-| EarthCam | Front End Developer | No location specified | Hybrid | $75,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/earthcam-front-end-developer-q1j0) |
-| RELX | Java SQL Big Data - Sr Software Engineer | Georgia | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/relx-java-sql-big-data-sr-software-engineer-42r3) |
-| Whatnot | Android Engineer, App Platform  | New York, New York, United States | Hybrid | $165,000 - $216,000 | [Apply](https://app.joinrise.co/jobs/whatnot-android-engineer-app-platform-2adi) |
-| PlayStation Global | Sr. Software Engineer | San Mateo, California, United States | Hybrid | $187,700 - $281,500 | [Apply](https://app.joinrise.co/jobs/playstation-global-sr-software-engineer-avgo) |
-| PlayStation Global | Software Engineer I | San Mateo, California, United States | Hybrid | $133,300 - $199,900 | [Apply](https://app.joinrise.co/jobs/playstation-global-software-engineer-i-6e6d) |
-| Microsoft | Software Engineer II, Minecraft | Redmond, Washington, United States | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/microsoft-software-engineer-ii-minecraft-61fh) |
-| Mudflap | Staff Software Engineer, Ruby on Rails | United States | Hybrid | $200,000 - $250,000 | [Apply](https://app.joinrise.co/jobs/mudflap-staff-software-engineer-ruby-on-rails-nlwx) |
-| Lazer | Senior Payments Engineer - Crypto | No location specified | Hybrid | $130,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/lazer-senior-payments-engineer-crypto-j173) |
-| G2i Inc. | JavaScript Engineer for Training AI Data  | No location specified | Hybrid | $31,200 - $52,000 | [Apply](https://app.joinrise.co/jobs/g2i-inc-javascript-engineer-for-training-ai-data-jfvd) |
-| MGM Resorts International | Sr Digital Software Engineer | Home Office - US, NV | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/mgm-resorts-international-sr-digital-software-engineer-espx) |
-| Summer | Lead Software Engineer | Remote - U.S. | Hybrid | $150,000 - $170,000 | [Apply](https://app.joinrise.co/jobs/summer-lead-software-engineer-cl7l) |
-| Komodo Health | Staff Software Engineer, Data Foundations- AI/ML | United States | Hybrid | $191,000 - $298,000 | [Apply](https://app.joinrise.co/jobs/komodo-health-staff-software-engineer-data-foundations-aiml-s28b) |
-| Palo Alto Networks | Sr Staff Engineer Software (Prisma Access Data-Plane Applications) | Santa Clara, CA | Hybrid | $185,000 - $215,000 | [Apply](https://app.joinrise.co/jobs/palo-alto-networks-sr-staff-engineer-software-prisma-access-dataplane-applications-2nm2) |
-| Riot Games | Senior Software Engineer, Player Platform - Riot Client  | Mercer Island, Washington, United States | Hybrid | $130,000 - $185,000 | [Apply](https://app.joinrise.co/jobs/riot-games-senior-software-engineer-player-platform-riot-client-r36j) |
-| Chewy | Software Engineer I - Backend | Boston, Massachusetts, United States | Hybrid | $70,000 - $95,000 | [Apply](https://app.joinrise.co/jobs/chewy-software-engineer-i-backend-mrij) |
-| ServiceNow | Staff Software Engineer - Core Cryptography (backend) |  4810 Eastgate Mall, San Diego, California, United States | Hybrid | $147,300 - $257,800 | [Apply](https://app.joinrise.co/jobs/servicenow-staff-software-engineer-core-cryptography-backend-3tiq) |
-| Microsoft | Member of Technical Staff – Backend Engineer, Copilot Memory and Personalization | Mountain View, California, United States | Hybrid | $158,400 - $304,200 | [Apply](https://app.joinrise.co/jobs/microsoft-member-of-technical-staff-backend-engineer-copilot-memory-and-personalization-0cpa) |
-| Coupang | Staff Backend Engineer, Marketplace Tech | Seattle, Washington, United States | Hybrid | $142,000 - $309,000 | [Apply](https://app.joinrise.co/jobs/coupang-staff-backend-engineer-marketplace-tech-a74o) |
-| Coupang Internal | Staff Backend Engineer, Marketplace Tech | Seattle, Washington, United States | Hybrid | $142,000 - $309,000 | [Apply](https://app.joinrise.co/jobs/coupang-internal-staff-backend-engineer-marketplace-tech-iny2) |
-| Harness | Principal Engineer - Harness Cloud Backend | Mountain View, California, United States | Hybrid | $250,000 - $275,000 | [Apply](https://app.joinrise.co/jobs/harness-principal-engineer-harness-cloud-backend-ouu8) |
-| Twin Health | Technical Lead, Backend Engineer | United States | Hybrid | $190,000 - $210,000 | [Apply](https://app.joinrise.co/jobs/twin-health-technical-lead-backend-engineer-8j0q) |
-| Boeing | Chief Software Engineer (Virtual) | United States - Remote | Hybrid | $165,000 - $184,000 | [Apply](https://app.joinrise.co/jobs/boeing-chief-software-engineer-virtual-3qxg) |
-| Google | Software Engineer, Android Systems | Mountain View, California, United States | Hybrid | $141,000 - $202,000 | [Apply](https://app.joinrise.co/jobs/google-software-engineer-android-systems-pb7z) |
-| ServiceNow | Staff Mobile Software Engineer (Native Android and Backend) | San Diego, California, United States | Hybrid | $147,300 - $257,800 | [Apply](https://app.joinrise.co/jobs/servicenow-staff-mobile-software-engineer-native-android-and-backend-io75) |
-| OpenAI | Software Engineer, Payments | San Francisco | Hybrid | $140,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/openai-software-engineer-payments-7tn3) |
-| Palo Alto Networks | Senior Staff AI Engineer, Enterprise AI Platform | Santa Clara, California, United States | Hybrid | $160,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/palo-alto-networks-senior-staff-ai-engineer-enterprise-ai-platform-8uuq) |
-| Crusoe | Senior Staff Software Engineer, SDN Networking | San Francisco | Hybrid | $245,000 - $290,000 | [Apply](https://app.joinrise.co/jobs/crusoe-senior-staff-software-engineer-sdn-networking-46qh) |
-| Snail | Senior Tools Engineer – AI NPC Systems | Beverly Hills, California, United States | Hybrid | $120,000 - $155,000 | [Apply](https://app.joinrise.co/jobs/snail-senior-tools-engineer-ai-npc-systems-ucju) |
-| Starburst | Staff Software Engineer - AI | Boston, Massachusetts, United States | Hybrid | $227,850 - $278,250 | [Apply](https://app.joinrise.co/jobs/starburst-staff-software-engineer-ai-ndt1) |
-| Apple | Software Engineer (AI/ML), Ai & Data Platforms | Sunnyvale, California, United States | Hybrid | $130,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/apple-software-engineer-aiml-ai-data-platforms-dw0w) |
-| Bespoke Labs | Software Engineer | Mountain View | Hybrid | $100,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/bespoke-labs-software-engineer-spsd) |
-| Highmark Health | Application Developer | FL, Working at Home - Florida | Hybrid | $57,700 - $107,800 | [Apply](https://app.joinrise.co/jobs/highmark-health-application-developer-ckyv) |
-| Lumos | Staff Software Engineer, Integrations Platform | Remote | Hybrid | $190,000 - $240,000 | [Apply](https://app.joinrise.co/jobs/lumos-staff-software-engineer-integrations-platform-x9np) |
-| Cengage Group | Director, Software Engineering | Remote | Hybrid | $138,000 - $174,000 | [Apply](https://app.joinrise.co/jobs/cengage-group-director-software-engineering-nri0) |
-
-## 06/20/2025 Jobs
+## 06/24/2025 Jobs
 
 | Company | Role | Location | Type | Salary Range | Link |
 |---------|------|----------|------|--------------|------|
-| Brigit | Software Engineer (Platform) | New York City | Hybrid | $135,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/brigit-software-engineer-platform-n187) |
-| LaunchDarkly | Staff Engineer, Distributed Systems | United States | Hybrid | $177,000 - $287,000 | [Apply](https://app.joinrise.co/jobs/launchdarkly-staff-engineer-distributed-systems-6zqc) |
-| pureIntegration | NodeJS Developer  | Philadelphia, PA, USA | Hybrid | $80,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/pureintegration-nodejs-developer-4s81) |
-| Reliable Robotics | Displays Software Engineer | Mountain View, CA | Hybrid | $110,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/reliable-robotics-displays-software-engineer-qngm) |
-| SPACE44 | Senior Kotlin Android Developer (Freelance, Remote) | No location specified | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/space44-senior-kotlin-android-developer-freelance-remote-r48q) |
-| Qualis LLC | Software Development Analyst II | No location specified | Hybrid | $92,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/qualis-llc-software-development-analyst-ii-1ris) |
-| Qualified | Staff Software Engineer, LLM Products | No location specified | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/qualified-staff-software-engineer-llm-products-hgkc) |
-| Astronomer | Senior Software Engineer | San Francisco | Hybrid | $180,000 - $210,000 | [Apply](https://app.joinrise.co/jobs/astronomer-senior-software-engineer-f0n8) |
-| Middesk | Software Engineer, Infrastructure  | No location specified | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/middesk-software-engineer-infrastructure-wcq5) |
-| Rockwell Automation | Senior Embedded Software Engineer | Mayfield Heights, Ohio, United States | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/rockwell-automation-senior-embedded-software-engineer-usoi) |
-| TriEdge Investments | AI Engineer- Member of Technical Staff | New York city | Hybrid | $175,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/triedge-investments-ai-engineer-member-of-technical-staff-mpd5) |
-| Medtronic | Software Engineering Manager - Neuro | Minneapolis, Minnesota, United States of America | Hybrid | $150,400 - $225,600 | [Apply](https://app.joinrise.co/jobs/medtronic-software-engineering-manager-neuro-p735) |
-| Adobe | Mgr, Software Development 4 | Seattle | Hybrid | $143,700 - $289,900 | [Apply](https://app.joinrise.co/jobs/adobe-mgr-software-development-4-tw84) |
-| Woongjin, Inc | JavaScript/NodeJS Developer - Bilingual (English/Korean) | Ridgefield Park, NJ, USA | Hybrid | $85,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/woongjin-inc-javascriptnodejs-developer-bilingual-englishkorean-ft8t) |
-| General Motors (GM) | Senior Software Engineer, Frontend Web Development | Austin, Texas, United States of America | Hybrid | $110,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/general-motors-gm-senior-software-engineer-frontend-web-development-xbfe) |
-| PNC | Software Engineer Principal | OH - Strongsville | Hybrid | $65,000 - $144,000 | [Apply](https://app.joinrise.co/jobs/pnc-software-engineer-principal-l54s) |
-| PNC | Software Engineer | PA - Pittsburgh (15206) | Hybrid | $70,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/pnc-software-engineer-tzrd) |
-| CVS Health | Digital Development Engineer | RI - Woonsocket | Hybrid | $110,406 - $140,000 | [Apply](https://app.joinrise.co/jobs/cvs-health-digital-development-engineer-6iry) |
-| Aledade | Software Engineer II | Bethesda, MD | Hybrid | $140,275 - $155,000 | [Apply](https://app.joinrise.co/jobs/aledade-software-engineer-ii-id3m) |
-| Toyota | Software Development Engineer-II | Plano, Texas | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/toyota-software-development-engineerii-27gz) |
-| NBCUniversal | Sr. Software Engineer, JavaScript | 30 Rockefeller Plaza, New York, NEW YORK | Hybrid | $110,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/nbcuniversal-sr-software-engineer-javascript-recl) |
-| Veeva Systems | Software Architect - Java | Oregon - Bend | Hybrid | $180,000 - $300,000 | [Apply](https://app.joinrise.co/jobs/veeva-systems-software-architect-java-t1m2) |
-| Aledade | Software Engineer I | Bethesda, MD | Hybrid | $125,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/aledade-software-engineer-i-6ylu) |
-| SEC | Senior Engineer, GPU Software Compute | 3900 N Capital of Texas Hwy, Austin, TX, USA | Hybrid | $124,000 - $208,400 | [Apply](https://app.joinrise.co/jobs/sec-senior-engineer-gpu-software-compute-d3sl) |
-| Overclock Labs | Software Engineer | Austin, Texas | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/overclock-labs-software-engineer-v746) |
-| Cystems Logic Inc | SharePoint Developer - Los Angeles CA - Remotely ( US Citizen only) | CA-1, Los Angeles, CA, USA | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/cystems-logic-inc-sharepoint-developer-los-angeles-ca-remotely-us-citizen-only-2n93) |
-| Zoox | Software Engineer - C++ Development, Vehicle Experience | Foster City, CA | Hybrid | $185,000 - $232,000 | [Apply](https://app.joinrise.co/jobs/zoox-software-engineer-c-development-vehicle-experience-1efc) |
-| Adobe | Senior Software Development Engineer | San Jose | Hybrid | $133,900 - $242,000 | [Apply](https://app.joinrise.co/jobs/adobe-senior-software-development-engineer-1f5q) |
-| AnaVation | Senior Software Engineer / Multimedia Toolkit Lead Developer | Clarksburg, WV | Hybrid | $110,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/anavation-senior-software-engineer-multimedia-toolkit-lead-developer-46dg) |
-| DMV IT Service | Full Stack Java Developer | Tempe, Arizona, United States | Hybrid | $70,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/dmv-it-service-full-stack-java-developer-kdy6) |
-| Hire IT People | Python Developer | Denver, CO | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/hire-it-people-python-developer-260r) |
-| Citi | Lead Java Back End and Angular Developer - C13 - IRVING | Irving Texas United States | Hybrid | $125,760 - $188,640 | [Apply](https://app.joinrise.co/jobs/citi-lead-java-back-end-and-angular-developer-c13-irving-uis9) |
-| Spotify | Backend Engineer - Personalization | No location specified | Hybrid | $125,561 - $179,374 | [Apply](https://app.joinrise.co/jobs/spotify-backend-engineer-personalization-zlqd) |
-| AnaVation | Senior Software Engineer | Huntsville, AL | Hybrid | $100,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/anavation-senior-software-engineer-iy0v) |
-| Atomic | Applied AI Engineer | No location specified | Hybrid | $100,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/atomic-applied-ai-engineer-lpl5) |
-| Blockdaemon | Senior Mobile Engineer - React Native | New York City | Hybrid | $160,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/blockdaemon-senior-mobile-engineer-react-native-a4sm) |
-| Brillio | Python with SQL- R01551212 | Saint Louis, Missouri, United States | Hybrid | $135,200 - $140,800 | [Apply](https://app.joinrise.co/jobs/brillio-python-with-sql-r01551212-z933) |
-| Coinbase | Senior Software Engineer, Infrastructure (Platform - Core Reliability) | Remote - USA | Hybrid | $180,625 - $218,900 | [Apply](https://app.joinrise.co/jobs/coinbase-senior-software-engineer-infrastructure-platform-core-reliability-g8hh) |
-| MichelinHR | Android Engineer | Tablet Hotels HEADQUARTERS | Hybrid | $100,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/michelinhr-android-engineer-otho) |
-| bydeluxe | Software Developer | US-CA-Burbank | Hybrid | $176,134 - $193,748 | [Apply](https://app.joinrise.co/jobs/bydeluxe-software-developer-zith) |
-| Expedia | Senior Machine Learning Engineer - Media Solutions | Washington - Seattle Campus | Hybrid | $173,000 - $242,500 | [Apply](https://app.joinrise.co/jobs/expedia-senior-machine-learning-engineer-media-solutions-gwm0) |
-| Peraton | Senior UI Software Developer - SATCOM | Herndon | Hybrid | $112,000 - $179,000 | [Apply](https://app.joinrise.co/jobs/peraton-senior-ui-software-developer-satcom-m03w) |
-| Keeper Security, Inc. | Senior Software Engineer, Android | No location specified | Hybrid | $110,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/keeper-security-inc-senior-software-engineer-android-bckx) |
-| Parker Group | Senior Software Engineer - Infrastructure | New York | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/parker-group-senior-software-engineer-infrastructure-k27e) |
-| Tanium | Senior Software Engineer - Graph Database | Bellevue, WA (Hybrid) | Hybrid | $120,000 - $355,000 | [Apply](https://app.joinrise.co/jobs/tanium-senior-software-engineer-graph-database-2qv9) |
-| Red Bull | Software Engineer, Streaming Apps - Web | Santa Monica, CA, USA | Hybrid | $116,000 - $174,000 | [Apply](https://app.joinrise.co/jobs/red-bull-software-engineer-streaming-apps-web-rnec) |
-| BlackRock | Application Engineer, Associate | Atlanta, GA | Hybrid | $120,000 - $148,000 | [Apply](https://app.joinrise.co/jobs/blackrock-application-engineer-associate-oeo2) |
-| Apex | Full-Stack Developer | Los Angeles | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/apex-fullstack-developer-xuo8) |
-| Quora, Inc. | Senior Software Engineer - Developer Productivity, Poe (Remote) | No location specified | Hybrid | $128,193 - $225,160 | [Apply](https://app.joinrise.co/jobs/quora-senior-software-engineer-developer-productivity-poe-remote-nfy7) |
-| Zed | Frontend Engineer | Boulder | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/zed-frontend-engineer-i30l) |
-| Toyota | Manager, Software | Costa Mesa, California | Hybrid | $132,100 - $240,500 | [Apply](https://app.joinrise.co/jobs/toyota-manager-software-dthm) |
-| Tek Spikes | Java Technical Lead - Lasvegas, NV - No GC and No H1B | No location specified | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/tek-spikes-java-technical-lead-lasvegas-nv-no-gc-and-no-h1b-1akg) |
-| Thorlabs | Software Engineer I | No location specified | Hybrid | $84,187 - $110,706 | [Apply](https://app.joinrise.co/jobs/thorlabs-software-engineer-i-l641) |
-| Parker Group | Software Engineer - Backend | New York | Hybrid | $90,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/parker-group-software-engineer-backend-6uvu) |
-| Apex | Ground Software Engineer (Early) | Los Angeles | Hybrid | $115,000 - $145,000 | [Apply](https://app.joinrise.co/jobs/apex-ground-software-engineer-early-d0tz) |
-| The Job Sauce | Senior Software Engineer - IAA | No location specified | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/the-job-sauce-senior-software-engineer-iaa-wd66) |
-| PointClickCare | Senior Software Engineer | Salt Lake City, UT | Hybrid | $139,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/pointclickcare-senior-software-engineer-tzt0) |
-| DMV IT Service | Browzwear Headless Scripting Expert | No location specified | Hybrid | $60,000 - $90,000 | [Apply](https://app.joinrise.co/jobs/dmv-it-service-browzwear-headless-scripting-expert-1xth) |
-| Ubiminds | Senior Software Engineer (395) | Remote | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/ubiminds-senior-software-engineer-395-j6nv) |
-| Riot Games | Staff Software Engineer, Server Systems - Unpublished R&D Product | Los Angeles, California, United States | Hybrid | $140,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/riot-games-staff-software-engineer-server-systems-unpublished-rd-product-2roq) |
-| Riot Games | Staff Software Engineer, Core Tech - Unpublished R&D Product | Los Angeles, California, United States | Hybrid | $140,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/riot-games-staff-software-engineer-core-tech-unpublished-rd-product-bbsq) |
-| Chewy | Software Engineer III | Boston, Massachusetts, United States | Hybrid | $110,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/chewy-software-engineer-iii-vv5j) |
-| Bana Solutions | Software Engineer | St. Louis, Missouri, United States | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/bana-solutions-software-engineer-bogq) |
-| Microsoft | Software Engineer- CTJ - Poly | Redmond, Washington, United States | Hybrid | $110,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/microsoft-software-engineer-ctj-poly-m7l1) |
-| Google | Senior Software Engineer, Performance, Google Cloud Performance | Mountain View, California, United States | Hybrid | $166,000 - $244,000 | [Apply](https://app.joinrise.co/jobs/google-senior-software-engineer-performance-google-cloud-performance-f75w) |
-| BILL | Staff Software Engineer - Developer Experience (DevX) | Draper, Utah, United States | Hybrid | $140,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/bill-staff-software-engineer-developer-experience-devx-r9ca) |
-| Microsoft | Software Engineer II - Firmware Security | Redmond, Washington, United States | Hybrid | $110,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/microsoft-software-engineer-ii-firmware-security-vpp9) |
-| General Dynamics Missions System International | Co-op Fall 2025 - Software Developer - 8 Months | Dartmouth, Massachusetts, United States | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/general-dynamics-missions-system-international-coop-fall-2025-software-developer-8-months-zltr) |
-| AXS | Manager, Software Engineering | Los Angeles, California, United States | Hybrid | $140,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/axs-manager-software-engineering-dx80) |
-| Mochi Health | Senior Software Engineer, Mobile | San Francisco, California, United States | Hybrid | $250,000 - $300,000 | [Apply](https://app.joinrise.co/jobs/mochi-health-senior-software-engineer-mobile-gwp9) |
-| Mochi Health | Senior Software Engineer, Frontend | San Francisco, California, United States | Hybrid | $250,000 - $300,000 | [Apply](https://app.joinrise.co/jobs/mochi-health-senior-software-engineer-frontend-3nbp) |
-| Wellmark, Inc. | Lead Remedy Software Engineer #1455 | Des Moines, IA, USA | Hybrid | $95,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/wellmark-inc-lead-remedy-software-engineer-1455-5ae0) |
-| McKesson | Software Engineer | USA, OH, Columbus | Hybrid | $106,900 - $178,100 | [Apply](https://app.joinrise.co/jobs/mckesson-software-engineer-s6ct) |
-| Google | Magic Eye Distribution, Full-stack Software Engineer | Mountain View, California, United States | Hybrid | $141,000 - $202,000 | [Apply](https://app.joinrise.co/jobs/google-magic-eye-distribution-fullstack-software-engineer-znl5) |
-| Cimulate | Full Stack Software Engineer | Boston, Massachusetts, United States | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/cimulate-full-stack-software-engineer-1lhh) |
-| Deep Origin | Senior/Lead Full Stack Engineer (NodeJS+React) | South San Francisco, California, United States | Hybrid | $140,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/deep-origin-seniorlead-full-stack-engineer-nodejsreact-udm9) |
-| Foursquare | Full Stack Software Developer II  | New York, United States | Hybrid | $120,000 - $210,000 | [Apply](https://app.joinrise.co/jobs/foursquare-full-stack-software-developer-ii-4wzv) |
-| RIOS | Senior Full-Stack Software Engineer – AEC Technology | Los Angeles, California, United States | Hybrid | $130,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/rios-senior-fullstack-software-engineer-aec-technology-lszk) |
-| Replicant | Senior Software Engineer, Self-Service Team | No location specified | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/replicant-senior-software-engineer-selfservice-team-k56f) |
-| NetDocuments | Staff Software Engineer | Lehi, Utah, United States | Hybrid | $160,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/netdocuments-staff-software-engineer-mqco) |
-| Acubed | Senior Software Engineer, Simulation and Synthetic Data | Sunnyvale, California, United States | Hybrid | $157,193 - $204,471 | [Apply](https://app.joinrise.co/jobs/acubed-senior-software-engineer-simulation-and-synthetic-data-2laz) |
-| Acubed | Staff Software Engineer, ML Data | Sunnyvale, California, United States | Hybrid | $194,008 - $249,082 | [Apply](https://app.joinrise.co/jobs/acubed-staff-software-engineer-ml-data-ouvf) |
-| Talan | Java Big Data Engineer - Financial Industry | Chicago, Illinois, United States | Hybrid | $75,000 - $115,000 | [Apply](https://app.joinrise.co/jobs/talan-java-big-data-engineer-financial-industry-72ug) |
-| Google | Software Engineer III, YouTube Ads Creative | Mountain View, California, United States | Hybrid | $141,000 - $202,000 | [Apply](https://app.joinrise.co/jobs/google-software-engineer-iii-youtube-ads-creative-cb3j) |
-| Sonalysts, Inc. | Automated Test Equipment (ATE) Software Engineer | Middletown | Hybrid | $90,000 - $125,000 | [Apply](https://app.joinrise.co/jobs/sonalysts-inc-automated-test-equipment-ate-software-engineer-esj1) |
-| Harbinger Motors | Software Engineer, Internal Apps (Backend) | Garden Grove, California, United States | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/harbinger-motors-software-engineer-internal-apps-backend-aj8k) |
-| Flexcompute Inc. | Senior Backend Software Engineer | Boston, Massachusetts, United States | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/flexcompute-inc-senior-backend-software-engineer-v9kr) |
-| TP-Link Systems Inc. | Cloud Software Engineer - Backend Manager | Irvine, California, United States | Hybrid | $200,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/tp-link-systems-inc-cloud-software-engineer-backend-manager-rvjl) |
-| A Place for Mom | Sr. Software Engineer, Backend - Lead Platform | New York, New York, United States | Hybrid | $130,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/a-place-for-mom-sr-software-engineer-backend-lead-platform-aku6) |
-| CSC Generation | Senior Full-Stack Engineer | No location specified | Hybrid | $110,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/csc-generation-senior-fullstack-engineer-upb4) |
-| Travoom | Rust, Database Engineer, (Core API & Services) | 500 W 2nd St, Austin, TX 78701, USA | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/travoom-rust-database-engineer-core-api-services-uvjv) |
-| Mobile Programming LLC | Senior Java Backend Developer – Payments & Microservices API | Cleveland, Ohio, United States | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/mobile-programming-llc-senior-java-backend-developer-payments-microservices-api-3jv2) |
-| Google | Senior Software Engineer, Mobile, Android, AR/VR | Mountain View, California, United States | Hybrid | $166,000 - $244,000 | [Apply](https://app.joinrise.co/jobs/google-senior-software-engineer-mobile-android-arvr-45xc) |
-| Wavess | Technical Intern: AI + Web App Development | United States | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/wavess-technical-intern-ai-web-app-development-3ba0) |
-| Microsoft | Principal Game Systems & Tools Engineer – Gaming AI | Redmond, Washington, United States | Hybrid | $140,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/microsoft-principal-game-systems-tools-engineer-gaming-ai-plpu) |
-| Microsoft | Principal Engineering Lead – Gaming AI | Redmond, Washington, United States | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/microsoft-principal-engineering-lead-gaming-ai-vbh3) |
-| NetDocuments | Senior Software Engineer - AI | Lehi, Utah, United States | Hybrid | $140,000 - $168,000 | [Apply](https://app.joinrise.co/jobs/netdocuments-senior-software-engineer-ai-7aou) |
-| 1-800 CONTACTS | Sr. Software Engineer (AI Text & Document Intelligence) | Draper, Utah, United States | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/1-800-contacts-sr-software-engineer-ai-text-document-intelligence-iqyl) |
-| Cengage Group | Technology Lead/Sr Manager, Software Engineering | Remote | Hybrid | $117,000 - $152,000 | [Apply](https://app.joinrise.co/jobs/cengage-group-technology-leadsr-manager-software-engineering-kwot) |
-| Grammarly | Site Reliability Engineer | Remote | Hybrid | $214,000 - $260,000 | [Apply](https://app.joinrise.co/jobs/grammarly-site-reliability-engineer-3omn) |
-| Cognitiv | Senior Software Engineer, MLOps &amp; Identity | Bellevue, WA | Hybrid | $160,000 - $210,000 | [Apply](https://app.joinrise.co/jobs/cognitiv-senior-software-engineer-mlops-amp-identity-a19g) |
-| Curriculum Associates | Manager, Software Engineering | Remote | Hybrid | $110,500 - $196,500 | [Apply](https://app.joinrise.co/jobs/curriculum-associates-manager-software-engineering-5qy4) |
-| Sourcebooks | Developer | Remote | Hybrid | $80,000 - $100,000 | [Apply](https://app.joinrise.co/jobs/sourcebooks-developer-661e) |
-| TeamBridge | Staff Software Architect | San Francisco | Hybrid | $140,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/teambridge-staff-software-architect-b7ll) |
-| Evolv Technology | C++ Software Architect | Remote | Hybrid | $170,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/evolv-technology-c-software-architect-yo05) |
-| Evolv Technology | Software Engineer | Remote | Hybrid | $115,000 - $135,000 | [Apply](https://app.joinrise.co/jobs/evolv-technology-software-engineer-y0gg) |
+| CloudZero | Principal Engineer, Distributed Data Systems | Boston  | Hybrid | $180,000 - $250,000 | [Apply](https://app.joinrise.co/jobs/cloudzero-principal-engineer-distributed-data-systems-oq3z) |
+| Infisical | Full Stack Engineer (Global) | No location specified | Hybrid | $90,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/infisical-full-stack-engineer-global-fywi) |
+| ServiceNow | Staff Full-Stack Software Engineer, Integrated Developer Environment |  4810 Eastgate Mall, San Diego, California, United States | Hybrid | $147,300 - $257,800 | [Apply](https://app.joinrise.co/jobs/servicenow-staff-fullstack-software-engineer-integrated-developer-environment-rw8r) |
+| PhillyTech.Co | Senior Python Backend Engineer | $130K-$160K + Hybrid | SaaS Outage Business Intelligence Company  | King of Prussia, Philadelphia, PA, United States | Hybrid | $130,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/phillytechco-senior-python-backend-engineer-130k160k-hybrid-saas-outage-business-intelligence-company-gw3w) |
+| Included Health | Software Engineer II, Fullstack | Remote | Hybrid | $118,640 - $217,850 | [Apply](https://app.joinrise.co/jobs/included-health-software-engineer-ii-fullstack-3spc) |
+| Accellor | Technical Lead | No location specified | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/accellor-technical-lead-b9q1) |
+| ProjectGrowth | Web Developer | Cairo | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/projectgrowth-web-developer-1if7) |
+| Collectly | Senior Software Engineer (USA based) | Remote | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/collectly-senior-software-engineer-usa-based-l1kc) |
+| Ajna Infotech | Guidewire PolicyCenter Technical Lead | Urbandale, Urbandale, Iowa, United States | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/ajna-infotech-guidewire-policycenter-technical-lead-zle2) |
+| Invisible Technologies | Staff Frontend Engineer  | United States - Remote | Hybrid | $149,000 - $214,000 | [Apply](https://app.joinrise.co/jobs/invisible-technologies-staff-frontend-engineer-5cwi) |
+| Kraken | Senior Software Engineer - React Native | No location specified | Hybrid | $140,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/kraken-senior-software-engineer-react-native-cddg) |
+| Jobgether | Senior Software Engineer (Remote - US) | No location specified | Hybrid | $180,000 - $210,000 | [Apply](https://app.joinrise.co/jobs/jobgether-senior-software-engineer-remote-us-0a8h) |
+| Atlassian | SOFTWARE ENGINEERS | San Francisco | Hybrid | $147,400 - $196,600 | [Apply](https://app.joinrise.co/jobs/atlassian-software-engineers-bbau) |
+| Sprig | Senior Fullstack Engineer | San Francisco | Hybrid | $180,000 - $260,000 | [Apply](https://app.joinrise.co/jobs/sprig-senior-fullstack-engineer-f97r) |
+| State Street | Java Developer - Onsite, SA | Quincy, Massachusetts | Hybrid | $52,000 - $91,000 | [Apply](https://app.joinrise.co/jobs/state-street-java-developer-onsite-sa-thyh) |
+| Magical | Senior Software Engineer, Distributed Systems | San Francisco | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/magical-senior-software-engineer-distributed-systems-c0r0) |
+| Salesforce | VP, Software Engineering, Industries SPARK | California - San Francisco | Hybrid | $307,100 - $491,500 | [Apply](https://app.joinrise.co/jobs/salesforce-vp-software-engineering-industries-spark-weip) |
+| Goldbelly | Senior Ruby on Rails Engineer | REMOTE | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/goldbelly-senior-ruby-on-rails-engineer-6yk2) |
+| ngc | Staff Teamcenter Developer | United States-Maryland-Unknown City | Hybrid | $155,400 - $233,200 | [Apply](https://app.joinrise.co/jobs/ngc-staff-teamcenter-developer-51if) |
+| FICO | Full Stack / Front End Engineer -Angular JS | TypeScript| Go | Work from Home, United States | Hybrid | $100,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/fico-full-stack-front-end-engineer-angular-js-typescript-go-bl4l) |
+| Abnormal | Back End Software Engineer II - Inbound Email Products Systems | Remote - USA | Hybrid | $148,800 - $175,050 | [Apply](https://app.joinrise.co/jobs/abnormal-back-end-software-engineer-ii-inbound-email-products-systems-9toz) |
+| McFadyen Digital | Adobe Commerce Architect | Vienna, VA, USA | Hybrid | $110,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/mcfadyen-digital-adobe-commerce-architect-fjvi) |
+| Sydecar | Senior Software Engineer  | No location specified | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/sydecar-senior-software-engineer-m5yw) |
+| January | Senior AI Engineer | Menlo Park CA | Hybrid | $150,000 - $250,000 | [Apply](https://app.joinrise.co/jobs/january-senior-ai-engineer-q8rl) |
+| Anduril Industries | Principal Software Engineer, ArsenalOS (Forge Platform) | Seattle, Washington, United States | Hybrid | $196,000 - $294,000 | [Apply](https://app.joinrise.co/jobs/anduril-industries-principal-software-engineer-arsenalos-forge-platform-0blo) |
+| General Motors (GM) | Micro Services Developer | Roswell, Georgia, United States of America | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/general-motors-gm-micro-services-developer-5smi) |
+| U.S. Bank | Lead Software Engineer (Test automation Engineer) | Hopkins, MN | Hybrid | $133,365 - $156,900 | [Apply](https://app.joinrise.co/jobs/us-bank-lead-software-engineer-test-automation-engineer-fmas) |
+| Screenverse | Senior Product Engineer | No location specified | Hybrid | $120,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/screenverse-senior-product-engineer-13ak) |
+| The Cigna Group | Software Engineering Senior Advisors | St. Louis, MO | Hybrid | $100,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/cigna-software-engineering-senior-advisors-ufri) |
+| American Express | Engineer, GRCT | Phoenix, Arizona, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-grct-d8mt) |
+| American Express | Engineer, Full Stack - Global Servicing Technology | Sunrise, Florida, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-full-stack-global-servicing-technology-hxe6) |
+| American Express | Senior Engineers | New York, New York, United States | Hybrid | $123,656 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineers-o2r8) |
+| American Express | Engineers | Phoenix, Arizona, United States | Hybrid | $122,806 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineers-bu1m) |
+| ngc | Engineer Software/Principal Engineer Software (Avionics) | United States-Florida-Melbourne | Hybrid | $77,200 - $142,900 | [Apply](https://app.joinrise.co/jobs/ngc-engineer-softwareprincipal-engineer-software-avionics-8gio) |
+| TerraFirma Robotics | Full-Stack Software Engineer | Austin | Hybrid | $120,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/terrafirma-robotics-fullstack-software-engineer-iw0g) |
+| Citi | Senior Java Engineer - C14 - CHARLOTTE | 615 S COLLEGE STREET | Hybrid | $145,840 - $218,760 | [Apply](https://app.joinrise.co/jobs/citi-senior-java-engineer-c14-charlotte-kn04) |
+| ngc | Full Stack Software Developer (AHT) | United States-Maryland-Hollywood | Hybrid | $87,200 - $130,800 | [Apply](https://app.joinrise.co/jobs/ngc-full-stack-software-developer-aht-dbah) |
+| Patrick J McGovern Foundation | Full Stack Developer | Remote | Hybrid | $120,000 - $145,000 | [Apply](https://app.joinrise.co/jobs/patrick-j-mcgovern-foundation-full-stack-developer-470c) |
+| Salesforce | Director, Software Engineering | California - San Francisco | Hybrid | $273,915 - $334,600 | [Apply](https://app.joinrise.co/jobs/salesforce-director-software-engineering-n49z) |
+| Flashbots | Senior Backend Engineer | No location specified | Hybrid | $120,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/flashbots-senior-backend-engineer-sygg) |
+| Palo Alto Networks | Sr. Principal Engineer, Backend - Cortex Cloud (Posture Security) | Santa Clara, CA | Hybrid | $170,000 - $277,000 | [Apply](https://app.joinrise.co/jobs/palo-alto-networks-sr-principal-engineer-backend-cortex-cloud-posture-security-g2oe) |
+| Wise | Staff Software Engineer - Money Movement | Domain Tower 2, 10025 Alterra Parkway, Floor 23, Austin | Hybrid | $180,000 - $230,000 | [Apply](https://app.joinrise.co/jobs/wise-staff-software-engineer-money-movement-i32q) |
+| Inovalon | Software Engineer (C#/.Net) | Remote- United States | Hybrid | $65,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/inovalon-software-engineer-cnet-4ovj) |
+| Palo Alto Networks | Senior Principal Software Engineer (Cortex Xpanse) | Santa Clara, CA | Hybrid | $182,000 - $295,000 | [Apply](https://app.joinrise.co/jobs/palo-alto-networks-senior-principal-software-engineer-cortex-xpanse-me1x) |
+| KBR | Software Application Developer Intern for GOES-R Series Satellites | Silver Spring, Maryland | Hybrid | $45,600 - $56,900 | [Apply](https://app.joinrise.co/jobs/kbr-software-application-developer-intern-for-goesr-series-satellites-ny1c) |
+| Bitwarden | Senior Software Engineer (Platform) | Remote, U.S. | Hybrid | $140,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/bitwarden-senior-software-engineer-platform-tia4) |
+| NBCUniversal | Manager, Software Engineering (SAP S/4 ABAP) | 904 Sylvan Ave, Englewood Cliffs, NEW JERSEY | Hybrid | $140,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/nbcuniversal-manager-software-engineering-sap-s4-abap-3tor) |
+| PayZen | Chief Architect | No location specified | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/payzen-chief-architect-w0j1) |
+| Camunda | Senior Software Engineer, Backend - Data Layer | No location specified | Hybrid | $131,200 - $196,800 | [Apply](https://app.joinrise.co/jobs/camunda-senior-software-engineer-backend-data-layer-imyg) |
+| Lambda | Applied ML Engineer - Inference | San Francisco | Hybrid | $325,000 - $490,000 | [Apply](https://app.joinrise.co/jobs/lambda-applied-ml-engineer-inference-xsw1) |
+| Jobsbridge | Java/J2EE Developer | San Diego, CA | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-javaj2ee-developer-4sh7) |
+| Pano AI | Senior Software Engineer - Full Stack | San Francisco, California | Hybrid | $150,000 - $205,000 | [Apply](https://app.joinrise.co/jobs/pano-ai-senior-software-engineer-full-stack-4uby) |
+| LPL Financial | AVP - .Net Software Engineer/Tech Lead | New York | Hybrid | $140,475 - $234,125 | [Apply](https://app.joinrise.co/jobs/lpl-financial-avp-net-software-engineertech-lead-gf2p) |
+| Cambly | Full-Stack Engineer | San Francisco | Hybrid | $130,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/cambly-fullstack-engineer-sokf) |
+| Enova International | Salesforce Tech Lead (Hybrid) | Chicago, Illinois, United States | Hybrid | $116,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/enova-international-salesforce-tech-lead-hybrid-l2bl) |
+| Huntress | Staff Software Engineer - Core Platform (Ruby/Rails) | United States | Hybrid | $195,000 - $210,000 | [Apply](https://app.joinrise.co/jobs/huntress-staff-software-engineer-core-platform-rubyrails-9yfc) |
+| Zocdoc | Staff Software Engineer  | United States | Hybrid | $176,000 - $264,000 | [Apply](https://app.joinrise.co/jobs/zocdoc-staff-software-engineer-zo8e) |
+| Airbnb | Senior Staff Machine Learning Engineer, Communication & Connectivity | San Francisco, California, United States | Hybrid | $244,000 - $305,000 | [Apply](https://app.joinrise.co/jobs/airbnb-senior-staff-machine-learning-engineer-communication-connectivity-bofy) |
+| Zscaler | Senior Staff iOS Engineer | San Jose, California, United States | Hybrid | $154,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/zscaler-senior-staff-ios-engineer-qvai) |
+| Abnormal | Senior Software Engineer | Remote - USA | Hybrid | $176,000 - $207,000 | [Apply](https://app.joinrise.co/jobs/abnormal-senior-software-engineer-te87) |
+| Robinhood | Senior Software Engineer, Reliability | Menlo Park, California, United States | Hybrid | $187,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/robinhood-senior-software-engineer-reliability-tpei) |
+| Experian | Senior Software Engineer - Java (West Coast) | United States, United States, United States, United States | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/experian-senior-software-engineer-java-west-coast-7ibs) |
+| Tilled | Junior Software Engineer | United States | Hybrid | $60,000 - $90,000 | [Apply](https://app.joinrise.co/jobs/tilled-junior-software-engineer-viz5) |
+| Google | Software Engineer III, AI/ML, Google Cloud Infrastructure | Sunnyvale, California, United States | Hybrid | $141,000 - $202,000 | [Apply](https://app.joinrise.co/jobs/google-software-engineer-iii-aiml-google-cloud-infrastructure-1t2r) |
+| TRM Labs | Senior Software Engineer, Cloud Security | United States | Hybrid | $130,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/trm-labs-senior-software-engineer-cloud-security-0r3w) |
+| Roblox | Software Engineer, Infra Foundation  | San Mateo, California, United States | Hybrid | $178,600 - $178,600 | [Apply](https://app.joinrise.co/jobs/roblox-software-engineer-infra-foundation-6dqc) |
+| SoFi | Senior Software Engineer, Invest | Salt Lake City, Utah, United States | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/sofi-senior-software-engineer-invest-o1ai) |
+| Aurora Innovation | Software Engineer II | Pittsburgh, Pennsylvania, United States | Hybrid | $126,000 - $201,000 | [Apply](https://app.joinrise.co/jobs/aurora-innovation-software-engineer-ii-fo3d) |
+| Amazon | Software Development Engineer, Industry Products - Telco | Mountain View, California, United States | Hybrid | $151,300 - $261,500 | [Apply](https://app.joinrise.co/jobs/amazon-software-development-engineer-industry-products-telco-0h2g) |
+| Amazon | Software Development Engineer, Shield Core | Seattle, Washington, United States | Hybrid | $129,300 - $223,600 | [Apply](https://app.joinrise.co/jobs/amazon-software-development-engineer-shield-core-dqda) |
+| Amazon | Software Development Engineer, AWS Network Firewall | Herndon, Virginia, United States | Hybrid | $120,000 - $170,000 | [Apply](https://app.joinrise.co/jobs/amazon-software-development-engineer-aws-network-firewall-drnn) |
+| Anduril Industries | Senior Software Engineer, Platform | Seattle, Washington, United States | Hybrid | $168,000 - $252,000 | [Apply](https://app.joinrise.co/jobs/anduril-industries-senior-software-engineer-platform-gi0e) |
+| Zscaler | Sr. Staff Software Engineer - API Tooling and Frameworks | San Jose, California, United States | Hybrid | $154,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/zscaler-sr-staff-software-engineer-api-tooling-and-frameworks-9cmd) |
+| Oracle | Principal Member of Technical Staff - Backend Developer - Remote | United States | Hybrid | $140,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/oracle-principal-member-of-technical-staff-backend-developer-remote-qcou) |
+| WaveStrong, Inc. | Remote BigID Developer (PST Time Zone) | San Ramon, California, United States | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/wavestrong-inc-remote-bigid-developer-pst-time-zone-mexu) |
+| Machinify | Senior Backend Engineer, Platform Team (Remote) | Palo Alto, California, United States | Hybrid | $190,000 - $210,000 | [Apply](https://app.joinrise.co/jobs/machinify-senior-backend-engineer-platform-team-remote-2g75) |
+| Machinify | Staff Backend Engineer, Platform Team (Remote) | Palo Alto, California, United States | Hybrid | $210,000 - $270,000 | [Apply](https://app.joinrise.co/jobs/machinify-staff-backend-engineer-platform-team-remote-w3wk) |
+| Cambly | Senior Full-Stack Engineer | San Francisco | Hybrid | $160,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/cambly-senior-fullstack-engineer-dtqc) |
+| Medtronic | Principal Software Engineer - IT Data Platforms & Services Full Stack Development | Minneapolis, Minnesota, United States of America | Hybrid | $148,000 - $222,000 | [Apply](https://app.joinrise.co/jobs/medtronic-principal-software-engineer-it-data-platforms-services-full-stack-development-1cbu) |
+| Truelogic | Senior Full-stack Engineer (Java/React) – Life Insurance - Mexico | No location specified | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/truelogic-senior-fullstack-engineer-javareact-life-insurance-mexico-7dfa) |
+| Airtable | Software Engineer, Product Fullstack (8+ YOE) | San Francisco, California, United States | Hybrid | $213,000 - $339,900 | [Apply](https://app.joinrise.co/jobs/airtable-software-engineer-product-fullstack-8-yoe-szae) |
+| Tellescope | Fullstack Software Engineer | No location specified | Hybrid | $90,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/tellescope-fullstack-software-engineer-fpze) |
+| MetroStar | Sr. Full Stack Developer II (5946) | Quantico Base, Virginia, United States | Hybrid | $120,000 - $191,000 | [Apply](https://app.joinrise.co/jobs/metrostar-sr-full-stack-developer-ii-5946-jv57) |
+| Inovalon | Senior Full Stack Software Engineer (C# | Angular) | Remote- United States | Hybrid | $80,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/inovalon-senior-full-stack-software-engineer-c-angular-yxlr) |
+| Oracle | Remote Principal Member of Technical Staff – Full Stack Focus | United States | Hybrid | $140,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/oracle-remote-principal-member-of-technical-staff-full-stack-focus-w27j) |
+| Navy Federal Credit Union | Distributed Developer (Full-Stack) | Vienna, Virginia, United States | Hybrid | $60,000 - $90,000 | [Apply](https://app.joinrise.co/jobs/navy-federal-credit-union-distributed-developer-fullstack-3u3d) |
+| Oracle | Full-Stack Principal Member of Technical Staff - Remote | United States | Hybrid | $130,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/oracle-fullstack-principal-member-of-technical-staff-remote-sqn1) |
+| Veteran Benefits Guide | Senior Software Engineer – Full-Stack Development (MERN) | Las Vegas, Nevada, United States | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/veteran-benefits-guide-senior-software-engineer-fullstack-development-mern-bpbw) |
+| Hebbia | Staff Software Engineer, Frontend | New York, New York, United States | Hybrid | $190,000 - $250,000 | [Apply](https://app.joinrise.co/jobs/hebbia-staff-software-engineer-frontend-vmz2) |
+| Inflection AI | Member of Technical Staff – Frontend | Palo Alto, California, United States | Hybrid | $175,000 - $350,000 | [Apply](https://app.joinrise.co/jobs/inflection-ai-member-of-technical-staff-frontend-zlo9) |
+| ISN Software | Senior Front-End Developer | Dallas, Texas, United States | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/isn-software-senior-frontend-developer-flwv) |
+| Grassroots Analytics | Senior Front-End / Full Stack Developer | Washington, District of Columbia, United States | Hybrid | $140,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/grassroots-analytics-senior-frontend-full-stack-developer-j4a0) |
+| House Rx | Senior UI Engineer (Front-end) - San Francisco, CA | San Francisco, California, United States | Hybrid | $160,000 - $185,000 | [Apply](https://app.joinrise.co/jobs/house-rx-senior-ui-engineer-frontend-san-francisco-ca-msyf) |
+| Socure | Associate Machine Learning Engineer | Carson City | Hybrid | $80,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/socure-associate-machine-learning-engineer-ofwh) |
+| Parallel Systems | Software Architect – Enterprise Systems  | Los Angeles, CA | Hybrid | $150,000 - $212,000 | [Apply](https://app.joinrise.co/jobs/parallel-systems-software-architect-enterprise-systems-x5yf) |
+| Parallel Systems | Lead Software Engineer – Enterprise Systems  | Los Angeles, CA | Hybrid | $150,000 - $212,000 | [Apply](https://app.joinrise.co/jobs/parallel-systems-lead-software-engineer-enterprise-systems-p7n2) |
+| Apple | Core OS Software Engineer - Darwin Server | Cupertino, California, United States | Hybrid | $120,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/apple-core-os-software-engineer-darwin-server-55o2) |
+| Babylist | Senior Software Engineer, Registry | United States | Hybrid | $140,477 - $210,612 | [Apply](https://app.joinrise.co/jobs/babylist-senior-software-engineer-registry-lt7g) |
+| Niantic | Software Engineer, Server | San Francisco, California, United States | Hybrid | $132,600 - $230,000 | [Apply](https://app.joinrise.co/jobs/niantic-software-engineer-server-7k4h) |
+| Palo Alto Networks | Principal SDET Engineer | Santa Clara, California, United States | Hybrid | $147,000 - $237,500 | [Apply](https://app.joinrise.co/jobs/palo-alto-networks-principal-sdet-engineer-489j) |
+| Element 74 Web Site Design | Software Engineer | Cape Girardeau, Missouri, United States | Hybrid | $70,000 - $110,000 | [Apply](https://app.joinrise.co/jobs/element-74-web-site-design-software-engineer-xrcr) |
+| CyberArk | Senior Software Engineer - Golang OR Python and DevOps | Newton, Massachusetts, United States | Hybrid | $119,000 - $165,000 | [Apply](https://app.joinrise.co/jobs/cyberark-senior-software-engineer-golang-or-python-and-devops-w6k7) |
+| Complex | Senior Front-end Engineer (React / TypeScript / Next.js) | New York | Hybrid | $145,000 - $170,000 | [Apply](https://app.joinrise.co/jobs/complex-senior-frontend-engineer-react-typescript-nextjs-44ip) |
+| Moloco | Software Engineer II - Data Engineering - Moloco Commerce Media | Redwood City, California, United States | Hybrid | $156,000 - $194,000 | [Apply](https://app.joinrise.co/jobs/moloco-software-engineer-ii-data-engineering-moloco-commerce-media-7adr) |
+| Spring Venture Group | Generative AI Software Engineer  | Kansas City, MO, USA | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/spring-venture-group-generative-ai-software-engineer-5pek) |
+| Truelogic | Senior Full-stack Engineer (Java/React) – Life Insurance - Dominican Republic | No location specified | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/truelogic-senior-fullstack-engineer-javareact-life-insurance-dominican-republic-luyc) |
+| Jobgether | Software Engineer (Remote - US) | No location specified | Hybrid | $104,000 - $125,000 | [Apply](https://app.joinrise.co/jobs/jobgether-software-engineer-remote-us-dmyn) |
+| QODE | Technical Lead/Architect | No location specified | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/qode-technical-leadarchitect-pkc7) |
+| Mercury | Frontend Engineer - Creative Products | United States | Hybrid | $140,800 - $158,400 | [Apply](https://app.joinrise.co/jobs/mercury-frontend-engineer-creative-products-dimc) |
+| Visa | Software Engineer - Sr. Consultant level (Java) - (Hybrid/Onsite) | Austin, Texas, United States | Hybrid | $143,200 - $207,800 | [Apply](https://app.joinrise.co/jobs/visa-software-engineer-sr-consultant-level-java-hybridonsite-kemp) |
+| Roblox | Senior Software Engineer, Data Compliance Solutions | San Mateo, California, United States | Hybrid | $192,890 - $238,520 | [Apply](https://app.joinrise.co/jobs/roblox-senior-software-engineer-data-compliance-solutions-1plx) |
+| Hitachi Vantara | Chief Architect - Pentaho | Orlando, Florida, United States | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/hitachi-vantara-chief-architect-pentaho-h0lg) |
+| Interface AI |  Staff Backend Engineer-Data | San Francisco, California, United States | Hybrid | $200,000 - $240,000 | [Apply](https://app.joinrise.co/jobs/interface-ai-staff-backend-engineerdata-mc7k) |
+| DoorDash USA | Senior Software Engineer, Backend Frameworks | Los Angeles, California, United States | Hybrid | $130,600 - $285,000 | [Apply](https://app.joinrise.co/jobs/doordash-usa-senior-software-engineer-backend-frameworks-hm0i) |
+| CLEAR - Corporate | Principal Engineer, Backend | Austin, Texas, United States | Hybrid | $140,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/clear-corporate-principal-engineer-backend-upoe) |
+| Oracle | Remote Principal Member of Technical Staff – Backend Focus | United States | Hybrid | $140,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/oracle-remote-principal-member-of-technical-staff-backend-focus-fjn9) |
+| Inflection AI | Platform Engineer – LLM Infrastructure & Backend Systems | Palo Alto, California, United States | Hybrid | $175,000 - $350,000 | [Apply](https://app.joinrise.co/jobs/inflection-ai-platform-engineer-llm-infrastructure-backend-systems-bs2e) |
+| Inflection AI | Member of Technical Staff – Backend | Palo Alto, California, United States | Hybrid | $175,000 - $350,000 | [Apply](https://app.joinrise.co/jobs/inflection-ai-member-of-technical-staff-backend-tc7j) |
+| DoorDash USA |  Software Engineer, Build and Backend DevEx | Seattle, Washington, United States | Hybrid | $130,600 - $285,000 | [Apply](https://app.joinrise.co/jobs/doordash-usa-software-engineer-build-and-backend-devex-2t52) |
+| Abnormal | Back End Software Engineer - Inbound Email Products Systems | United States | Hybrid | $148,800 - $195,000 | [Apply](https://app.joinrise.co/jobs/abnormal-back-end-software-engineer-inbound-email-products-systems-ljys) |
+| Grassroots Analytics | Senior Back-End Developer  | Washington, District of Columbia, United States | Hybrid | $140,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/grassroots-analytics-senior-backend-developer-mplq) |
+| Faraday Future | Senior Back End Engineer | Gardena, California, United States | Hybrid | $120,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/faraday-future-senior-back-end-engineer-0bgq) |
+| Anduril Industries | Senior Android SW Engineer | Costa Mesa, California, United States | Hybrid | $168,000 - $252,000 | [Apply](https://app.joinrise.co/jobs/anduril-industries-senior-android-sw-engineer-tans) |
+| Delve | Backend Engineer | San Francisco | Hybrid | $110,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/delve-backend-engineer-i3sp) |
+| TITAN | Senior Mobile Engineer  | New York | Hybrid | $130,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/titan-senior-mobile-engineer-dsdt) |
+| Apple | AI Solutions Architect, Data Solutions & Initiatives | Cupertino, California, United States | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/apple-ai-solutions-architect-data-solutions-initiatives-yq9x) |
+| Stacklok | Staff Software Engineer - Applied AI | Bellevue, Washington, United States | Hybrid | $160,000 - $230,000 | [Apply](https://app.joinrise.co/jobs/stacklok-staff-software-engineer-applied-ai-ckgo) |
+| Stacklok | Sr. Manager, Software Engineering - Applied AI | Bellevue, Washington, United States | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/stacklok-sr-manager-software-engineering-applied-ai-3lk1) |
+| RVO Health | Senior AI Engineer, Quit for Life | Charlotte, North Carolina, United States | Hybrid | $118,650 - $158,200 | [Apply](https://app.joinrise.co/jobs/rvo-health-senior-ai-engineer-quit-for-life-dlx4) |
+| Spring Venture Group | Generative AI Software Engineer | Kansas City, Missouri, United States | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/spring-venture-group-generative-ai-software-engineer-qxnu) |
+| SandboxAQ | Senior Backend Software Engineer, Agentic AI | Remote, USA; Remote, Canada | Hybrid | $154,000 - $256,000 | [Apply](https://app.joinrise.co/jobs/sandboxaq-senior-backend-software-engineer-agentic-ai-txp9) |
+| American Express | Engineer, GRCT | Phoenix, Arizona, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-grct-96g5) |
+| American Express | Engineer, Full Stack - Global Servicing Technology | Sunrise, Florida, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-full-stack-global-servicing-technology-ss44) |
+| Hudl | Senior Software Engineer - High School Wearables | Remote | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/hudl-senior-software-engineer-high-school-wearables-anb4) |
+| The Nuclear Company | Director, Mobile Engineering | Seattle, WA / Remote | Hybrid | $198,000 - $228,000 | [Apply](https://app.joinrise.co/jobs/the-nuclear-company-director-mobile-engineering-kdbn) |
+| Probably Genetic | Senior Software Engineer | San Francisco | Hybrid | $130,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/probably-genetic-senior-software-engineer-ihrc) |
+
+## 06/23/2025 Jobs
+
+| Company | Role | Location | Type | Salary Range | Link |
+|---------|------|----------|------|--------------|------|
+| Everlaw | Software Engineer, Developer Experience  | Oakland, California, United States | Hybrid | $124,000 - $181,000 | [Apply](https://app.joinrise.co/jobs/everlaw-software-engineer-developer-experience-v93b) |
+| Procore Technologies | Senior Manager, Software Engineering - Permissions | 221 West 6th Street, Austin, TX | Hybrid | $198,240 - $272,580 | [Apply](https://app.joinrise.co/jobs/procore-technologies-senior-manager-software-engineering-permissions-nivk) |
+| Visa | Software Engineer I | Austin, TX, USA | Hybrid | $84,600 - $119,650 | [Apply](https://app.joinrise.co/jobs/visa-software-engineer-i-on9v) |
+| Dev.Pro | Intermediate CMS Developer (PHP, WordPress) - OP01773-00 | No location specified | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/devpro-intermediate-cms-developer-php-wordpress-op0177300-4ukv) |
+| Memorial Sloan Kettering Cancer Center | Software Engineer I - Department of Pathology & Laboratory Medicine | NY-New York | Hybrid | $100,600 - $161,000 | [Apply](https://app.joinrise.co/jobs/memorial-sloan-kettering-cancer-center-software-engineer-i-department-of-pathology-laboratory-medicine-9cdn) |
+| Truelogic | Senior Full-stack Engineer (Java/React) – Life Insurance - Colombia | No location specified | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/truelogic-senior-fullstack-engineer-javareact-life-insurance-colombia-dtek) |
+| Design Shopp | Senior Web Developer - Remote (Global Team) | No location specified | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/design-shopp-senior-web-developer-remote-global-team-dqw0) |
+| Truelogic | Senior Full-stack Engineer (Java/React) – Life Insurance - Latam | No location specified | Hybrid | $100,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/truelogic-senior-fullstack-engineer-javareact-life-insurance-latam-6jnx) |
+| G2i Inc. | Software Engineer for Training AI Data  | No location specified | Hybrid | $31,200 - $52,000 | [Apply](https://app.joinrise.co/jobs/g2i-inc-software-engineer-for-training-ai-data-u2gg) |
+| Reveal Health Tech | Frontend Software Engineer | No location specified | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/reveal-health-tech-frontend-software-engineer-3l51) |
+| Airgoods | Software Engineer - Full Stack | New York City | Hybrid | $100,000 - $200,000 | [Apply](https://app.joinrise.co/jobs/airgoods-software-engineer-full-stack-k4yi) |
+| Vettura | Cloud Architect | Austin | Hybrid | $140,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/vettura-cloud-architect-i0bm) |
+| WHOOP | iOS Engineer II (Healthcare) | Boston, MA | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/whoop-ios-engineer-ii-healthcare-vak7) |
+| Spire | Senior Software Engineer | Boulder, Colorado, United States | Hybrid | $130,500 - $171,000 | [Apply](https://app.joinrise.co/jobs/spire-senior-software-engineer-ul69) |
+| Cognitiv | Machine Learning Engineer, Features | Bellevue, WA | Hybrid | $130,000 - $170,000 | [Apply](https://app.joinrise.co/jobs/cognitiv-machine-learning-engineer-features-jb66) |
+| WHOOP | Software Engineering Manager (Healthcare) | Boston, MA | Hybrid | $140,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/whoop-software-engineering-manager-healthcare-bnwx) |
+| GHR | Software Engineer III | Atlanta | Hybrid | $120,000 - $160,000 | [Apply](https://app.joinrise.co/jobs/ghr-software-engineer-iii-hz9f) |
+| PointClickCare | Principal Software Architect-Data Platform and AI | Remote, USA | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/pointclickcare-principal-software-architectdata-platform-and-ai-kv1l) |
+| PointClickCare | Senior Software Architect-Data Platform and AI | Remote, USA | Hybrid | $130,000 - $170,000 | [Apply](https://app.joinrise.co/jobs/pointclickcare-senior-software-architectdata-platform-and-ai-z276) |
+| Memorial Sloan Kettering Cancer Center | Bioinformatics Software Engineer IV | NY-New York | Hybrid | $134,600 - $222,200 | [Apply](https://app.joinrise.co/jobs/memorial-sloan-kettering-cancer-center-bioinformatics-software-engineer-iv-ex12) |
+| Adtalem Global Education | Senior Mulesoft Developer | Lisle, IL, USA | Hybrid | $84,835 - $149,076 | [Apply](https://app.joinrise.co/jobs/adtalem-global-education-senior-mulesoft-developer-4d8d) |
+| Pylon | Software Engineer (AI Agents) | San Francisco | Hybrid | $150,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/pylon-software-engineer-ai-agents-h5ea) |
+| Northstrat | Software Engineer | No location specified | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/northstrat-software-engineer-s660) |
+| Census | Senior Software Engineer - Backend/Platform | New York | Hybrid | $180,000 - $230,000 | [Apply](https://app.joinrise.co/jobs/census-senior-software-engineer-backendplatform-i83x) |
+| DoubleVerify | Senior Software Engineer II - Frontend | New York, United States | Hybrid | $102,000 - $202,000 | [Apply](https://app.joinrise.co/jobs/doubleverify-senior-software-engineer-ii-frontend-8oya) |
+| Reveal Health Tech | Backend Engineer | No location specified | Hybrid | $90,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/reveal-health-tech-backend-engineer-kucl) |
+| Expeditors | Associate Developer (Java) - TWMS, IS Operational Experience | 1200 3rd Ave, Seattle, WA 98101, USA | Hybrid | $80,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/expeditors-associate-developer-java-twms-is-operational-experience-jscp) |
+| U.S. Bank | Senior Software Engineer - Informatica in Columbus, OH | Columbus, OH | Hybrid | $138,590 - $164,100 | [Apply](https://app.joinrise.co/jobs/us-bank-senior-software-engineer-informatica-in-columbus-oh-ze0x) |
+| Paraform | Software Engineer | San Francisco | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/paraform-software-engineer-dku0) |
+| Haier | Software Engineering Co-op_Summer 2026 | USA, Louisville, KY | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/haier-software-engineering-coopsummer-2026-uclu) |
+| DMV IT Service | Sr .Net Developer | No location specified | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/dmv-it-service-sr-net-developer-yh3o) |
+| American Express | Engineer I | Phoenix, Arizona, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-i-mw9g) |
+| Derex Technologies Inc | Lead MuleSoft Developer | Erie, PA, USA | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/derex-technologies-inc-lead-mulesoft-developer-3bcl) |
+| American Express | Engineer, Full Stack - Global Servicing Technology | Sunrise, Florida, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-full-stack-global-servicing-technology-n55s) |
+| Jobsbridge | UI Technical Lead | New York, NY | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/jobsbridge-ui-technical-lead-klsj) |
+| ServiceNow | Staff Mobile Software Engineer (Native Android and Backend) |  4810 Eastgate Mall, San Diego, California, United States | Hybrid | $147,300 - $257,800 | [Apply](https://app.joinrise.co/jobs/servicenow-staff-mobile-software-engineer-native-android-and-backend-t142) |
+| The Credit Pros | Senior Full-Stack WordPress Developer | No location specified | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/the-credit-pros-senior-fullstack-wordpress-developer-gev6) |
+| Wyetech | Software Engineer (Hybrid) - 22966 | Columbia, Maryland | Hybrid | $109,241 - $291,014 | [Apply](https://app.joinrise.co/jobs/wyetech-software-engineer-hybrid-22966-207z) |
+| Wyetech | Software Engineer (Hybrid) - 23438 | Augusta, Georgia | Hybrid | $109,158 - $291,494 | [Apply](https://app.joinrise.co/jobs/wyetech-software-engineer-hybrid-23438-m1kw) |
+| IDT | Lead .NET Sotware Engineer | No location specified | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/idt-lead-net-sotware-engineer-u7b4) |
+| Wyetech | Software Engineer (Hybrid) - 23533 | Columbia, Maryland | Hybrid | $109,260 - $291,033 | [Apply](https://app.joinrise.co/jobs/wyetech-software-engineer-hybrid-23533-95od) |
+| Foodsmart | Client Engineer | Remote (US) | Hybrid | $120,000 - $145,000 | [Apply](https://app.joinrise.co/jobs/foodsmart-client-engineer-s0qe) |
+| bdx | Sr. Software Engineering Manager, Salesforce | USA FL - Stuart Airport Road | Hybrid | $143,900 - $237,600 | [Apply](https://app.joinrise.co/jobs/bdx-sr-software-engineering-manager-salesforce-z3c3) |
+| ServiceNow | Staff Software Engineer | Building A,B,C 2225 Lawson Lane, Santa Clara, CALIFORNIA, United States | Hybrid | $163,600 - $286,300 | [Apply](https://app.joinrise.co/jobs/servicenow-staff-software-engineer-1s7j) |
+| ChipStack | Staff ML Engineer - Infrastructure | San Jose | Hybrid | $150,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/chipstack-staff-ml-engineer-infrastructure-usu1) |
+| Airgoods | Software Engineer - Infrastructure | New York City | Hybrid | $120,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/airgoods-software-engineer-infrastructure-pcwd) |
+| Infisical | Full Stack Engineer - New Grad (San Francisco) | San Francisco | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/infisical-full-stack-engineer-new-grad-san-francisco-o61w) |
+| Medtronic | Sr. Software Engineering Manager | Lafayette, Colorado, United States of America | Hybrid | $175,200 - $262,800 | [Apply](https://app.joinrise.co/jobs/medtronic-sr-software-engineering-manager-3ld3) |
+| ServiceNow | Dir, Data Platform Software Engrg Mgmt - Relational Data |  4810 Eastgate Mall, San Diego, California, United States | Hybrid | $195,700 - $342,500 | [Apply](https://app.joinrise.co/jobs/servicenow-dir-data-platform-software-engrg-mgmt-relational-data-6dfd) |
+| Arkestro | Fullstack Software Engineer (III) | United States | Hybrid | $105,000 - $125,000 | [Apply](https://app.joinrise.co/jobs/arkestro-fullstack-software-engineer-iii-xsi1) |
+| Interface AI | Staff Engineer - DS/ML | San Francisco, California, United States | Hybrid | $225,000 - $260,000 | [Apply](https://app.joinrise.co/jobs/interface-ai-staff-engineer-dsml-nery) |
+| Interface AI | Software Engineer I | San Francisco, California, United States | Hybrid | $125,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/interface-ai-software-engineer-i-g4ni) |
+| RippleMatch Opportunities | Software Engineer Intern, application via RippleMatch | San Jose, California, United States | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/ripplematch-opportunities-software-engineer-intern-application-via-ripplematch-o9mk) |
+| PLAUD ai | Founding Senior Backend Engineer | San Francisco | Hybrid | $170,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/plaud-ai-founding-senior-backend-engineer-9wbx) |
+| Palo Alto Networks | Principal  Software Engineer in Test Automation (SASE) | Santa Clara, California, United States | Hybrid | $147,000 - $225,500 | [Apply](https://app.joinrise.co/jobs/palo-alto-networks-principal-software-engineer-in-test-automation-sase-cjvc) |
+| PLAUD ai | Founding Backend Engineer | San Francisco | Hybrid | $130,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/plaud-ai-founding-backend-engineer-0eq6) |
+| Unum | Software Engineer II - Mainframe | Chattanooga, Tennessee, USA | Hybrid | $73,300 - $150,500 | [Apply](https://app.joinrise.co/jobs/unum-software-engineer-ii-mainframe-q4e0) |
 
