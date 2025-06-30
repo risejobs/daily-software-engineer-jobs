@@ -20,6 +20,28 @@ Have feedback? Shoot us a message at [jobs@joinrise.co](mailto:jobs@joinrise.co)
 
 | Company | Role | Location | Type | Salary Range | Link |
 |---------|------|----------|------|--------------|------|
+| DMV IT Service | ERP Developer 3 | No location specified | Hybrid | $90,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/dmv-it-service-erp-developer-3-chid) |
+| American Express | Engineer, GRCT | Phoenix, Arizona, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-grct-kugs) |
+| Mindera | Experienced Fullstack Developer - .Net and React/Angular | No location specified | Hybrid | $70,000 - $120,000 | [Apply](https://app.joinrise.co/jobs/mindera-experienced-fullstack-developer-net-and-reactangular-ae3n) |
+| American Express | Senior Engineer | United States | Hybrid | $110,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineer-me7r) |
+| American Express | Frontend Engineer - React - Enterprise Architecture | New York, New York, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-frontend-engineer-react-enterprise-architecture-otgx) |
+| American Express | Engineer - MarTech | Sunrise, Florida, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-martech-7o2u) |
+| American Express | Senior Engineer - Java - GO2 Unify | Sunrise, Florida, United States | Hybrid | $110,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineer-java-go2-unify-yfvi) |
+| American Express | Senior Engineers | New York, New York, United States | Hybrid | $123,656 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineers-hw1k) |
+| American Express | Engineers | Phoenix, Arizona, United States | Hybrid | $122,806 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineers-ht3n) |
+| Chai Discovery | Software Engineer, Product | San Francisco | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/chai-discovery-software-engineer-product-2xue) |
+| N1 | Software Engineer (Frontend Design) | New York City | Hybrid | $100,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/n1-software-engineer-frontend-design-jumh) |
+| DMV IT Service | .Net Developer | No location specified | Hybrid | Not specified | [Apply](https://app.joinrise.co/jobs/dmv-it-service-net-developer-d890) |
+| Skyward IT Solutions, LLC | Software Engineer | Rockville, MD | Hybrid | $110,000 - $130,000 | [Apply](https://app.joinrise.co/jobs/skyward-it-solutions-llc-software-engineer-12af) |
+| Layup Parts | Software Engineer (Computational Geometry) | Huntington Beach | Hybrid | $115,000 - $185,000 | [Apply](https://app.joinrise.co/jobs/layup-parts-software-engineer-computational-geometry-082x) |
+| Airbnb | Senior Software Engineer, API Infra | Remote - USA | Hybrid | $191,000 - $225,000 | [Apply](https://app.joinrise.co/jobs/airbnb-senior-software-engineer-api-infra-vwbw) |
+| Veeva Systems | Software Engineer - iOS | Ohio - Columbus | Hybrid | $85,000 - $225,000 | [Apply](https://app.joinrise.co/jobs/veeva-systems-software-engineer-ios-o9ja) |
+| General Motors (GM) | Senior Software Engineer - Machine Learning | Remote - United States | Hybrid | $134,000 - $205,000 | [Apply](https://app.joinrise.co/jobs/general-motors-gm-senior-software-engineer-machine-learning-i52i) |
+| Fiserv | Software Engineer | Berkeley Heights, New Jersey | Hybrid | $96,400 - $162,000 | [Apply](https://app.joinrise.co/jobs/fiserv-software-engineer-rnxy) |
+| Walmart | (USA) Software Engineer III | (USA) VIZIO SERVICES DALLAS TX DALLAS Home Office | Hybrid | $90,000 - $180,000 | [Apply](https://app.joinrise.co/jobs/walmart-usa-software-engineer-iii-4rpg) |
+| OneHealthineers | Staff Software Developer | KNV A | Hybrid | $90,000 - $140,000 | [Apply](https://app.joinrise.co/jobs/onehealthineers-staff-software-developer-6yzy) |
+| Arlo Technologies | Staff Android Engineer | Milpitas, CA | Hybrid | $123,000 - $220,000 | [Apply](https://app.joinrise.co/jobs/arlo-technologies-staff-android-engineer-780x) |
+| Expedia | EGGP - Software Development Engineer I | Washington - Seattle Campus | Hybrid | $87,500 - $122,500 | [Apply](https://app.joinrise.co/jobs/expedia-eggp-software-development-engineer-i-9ctz) |
 | American Express | Engineer, GRCT | Phoenix, Arizona, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-engineer-grct-7szq) |
 | American Express | Senior Engineer | United States | Hybrid | $110,000 - $190,000 | [Apply](https://app.joinrise.co/jobs/american-express-senior-engineer-wjov) |
 | American Express | Frontend Engineer - React - Enterprise Architecture | New York, New York, United States | Hybrid | $85,000 - $150,000 | [Apply](https://app.joinrise.co/jobs/american-express-frontend-engineer-react-enterprise-architecture-433f) |
